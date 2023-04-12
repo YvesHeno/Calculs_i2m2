@@ -1,0 +1,1377 @@
+CODE_TAXON;TAXON;CODE_METHODE;QUANTIFICATION;REDISTRIBUTION;FAMILLE;GROUP
+2;Taeniopterygidae;2;abondance;Famille;Taeniopterygidae;Plecoptera
+3;Brachyptera;3;abondance;NA;Taeniopterygidae;Plecoptera
+4;Brachyptera risi;3;abondance;NA;Taeniopterygidae;Plecoptera
+5;Brachyptera seticornis;3;abondance;NA;Taeniopterygidae;Plecoptera
+6;Brachyptera braueri;3;abondance;NA;Taeniopterygidae;Plecoptera
+7;Brachyptera trifasciata;3;abondance;NA;Taeniopterygidae;Plecoptera
+8;Brachyptera monilicornis;3;abondance;NA;Taeniopterygidae;Plecoptera
+10;Rhabdiopteryx;10;abondance;NA;Taeniopterygidae;Plecoptera
+11;Rhabdiopteryx alpina;10;abondance;NA;Taeniopterygidae;Plecoptera
+14;Taeniopteryx;14;abondance;NA;Taeniopterygidae;Plecoptera
+15;Taeniopteryx auberti;14;abondance;NA;Taeniopterygidae;Plecoptera
+16;Taeniopteryx hubaulti;14;abondance;NA;Taeniopterygidae;Plecoptera
+18;Taeniopteryx nebulosa;14;abondance;NA;Taeniopterygidae;Plecoptera
+19;Taeniopteryx schoenemundi;14;abondance;NA;Taeniopterygidae;Plecoptera
+20;Nemouridae;20;abondance;Famille;Nemouridae;Plecoptera
+21;Amphinemura;21;abondance;NA;Nemouridae;Plecoptera
+23;Amphinemura standfussi;21;abondance;NA;Nemouridae;Plecoptera
+24;Amphinemura sulcicollis;21;abondance;NA;Nemouridae;Plecoptera
+25;Amphinemura triangularis;21;abondance;NA;Nemouridae;Plecoptera
+26;Nemoura;26;abondance;NA;Nemouridae;Plecoptera
+29;Nemoura cinerea;26;abondance;NA;Nemouridae;Plecoptera
+35;Nemoura lacustris;26;abondance;NA;Nemouridae;Plecoptera
+36;Nemoura marginata;26;abondance;NA;Nemouridae;Plecoptera
+37;Nemoura minima;26;abondance;NA;Nemouridae;Plecoptera
+40;Nemoura obtusa;26;abondance;NA;Nemouridae;Plecoptera
+44;Nemurella;44;abondance;NA;Nemouridae;Plecoptera
+45;Nemurella picteti;44;abondance;NA;Nemouridae;Plecoptera
+46;Protonemura;46;abondance;NA;Nemouridae;Plecoptera
+55;Protonemura intricata;46;abondance;NA;Nemouridae;Plecoptera
+56;Protonemura lateralis;46;abondance;NA;Nemouridae;Plecoptera
+57;Protonemura meyeri;46;abondance;NA;Nemouridae;Plecoptera
+58;Protonemura nimborum;46;abondance;NA;Nemouridae;Plecoptera
+62;Protonemura risi;46;abondance;NA;Nemouridae;Plecoptera
+66;Leuctridae;66;abondance;Famille;Leuctridae;Plecoptera
+67;Euleuctra;67;abondance;NA;Leuctridae;Plecoptera
+68;Euleuctra geniculata;67;abondance;NA;Leuctridae;Plecoptera
+69;Leuctra;69;abondance;NA;Leuctridae;Plecoptera
+70;Leuctra albida;69;abondance;NA;Leuctridae;Plecoptera
+75;Leuctra aurita;69;abondance;NA;Leuctridae;Plecoptera
+76;Leuctra autumnalis;69;abondance;NA;Leuctridae;Plecoptera
+77;Leuctra braueri;69;abondance;NA;Leuctridae;Plecoptera
+81;Leuctra digitata;69;abondance;NA;Leuctridae;Plecoptera
+84;Leuctra fusca;69;abondance;NA;Leuctridae;Plecoptera
+85;Leuctra gallica;69;abondance;NA;Leuctridae;Plecoptera
+87;Leuctra helvetica;69;abondance;NA;Leuctridae;Plecoptera
+88;Leuctra hexacantha;69;abondance;NA;Leuctridae;Plecoptera
+89;Leuctra hippopus;69;abondance;NA;Leuctridae;Plecoptera
+100;Leuctra nigra;69;abondance;NA;Leuctridae;Plecoptera
+110;Pachyleuctra;110;abondance;NA;Leuctridae;Plecoptera
+115;Capniidae;115;abondance;Famille;Capniidae;Plecoptera
+116;Capnia;116;abondance;NA;Capniidae;Plecoptera
+117;Capnia bifrons;116;abondance;NA;Capniidae;Plecoptera
+120;Capnopsis;120;abondance;NA;Capniidae;Plecoptera
+121;Capnopsis schilleri;120;abondance;NA;Capniidae;Plecoptera
+122;Capnioneura;122;abondance;NA;Capniidae;Plecoptera
+127;Perlodidae;127;abondance;Famille;Perlodidae;Plecoptera
+128;Arcynopteryx;128;abondance;NA;Perlodidae;Plecoptera
+129;Arcynopteryx compacta;128;abondance;NA;Perlodidae;Plecoptera
+130;Besdolus;130;abondance;NA;Perlodidae;Plecoptera
+132;Dictyogenus;132;abondance;NA;Perlodidae;Plecoptera
+136;Diura;136;abondance;NA;Perlodidae;Plecoptera
+137;Diura bicaudata;136;abondance;NA;Perlodidae;Plecoptera
+138;Isogenus;138;abondance;NA;Perlodidae;Plecoptera
+139;Isogenus nubecula;138;abondance;NA;Perlodidae;Plecoptera
+140;Isoperla;140;abondance;NA;Perlodidae;Plecoptera
+144;Isoperla grammatica;140;abondance;NA;Perlodidae;Plecoptera
+146;Isoperla obscura;140;abondance;NA;Perlodidae;Plecoptera
+147;Isoperla oxylepis;140;abondance;NA;Perlodidae;Plecoptera
+150;Perlodes;150;abondance;NA;Perlodidae;Plecoptera
+151;Perlodes dispar;150;abondance;NA;Perlodidae;Plecoptera
+154;Perlodes microcephala;150;abondance;NA;Perlodidae;Plecoptera
+155;Perlidae;155;abondance;Famille;Perlidae;Plecoptera
+156;Dinocras;156;abondance;NA;Perlidae;Plecoptera
+157;Dinocras cephalotes;156;abondance;NA;Perlidae;Plecoptera
+159;Marthamea;159;abondance;NA;Perlidae;Plecoptera
+162;Eoperla;162;abondance;NA;Perlidae;Plecoptera
+163;Eoperla ochracea;162;abondance;NA;Perlidae;Plecoptera
+164;Perla;164;abondance;NA;Perlidae;Plecoptera
+166;Perla burmeisteriana;164;abondance;NA;Perlidae;Plecoptera
+168;Perla marginata;164;abondance;NA;Perlidae;Plecoptera
+169;Chloroperlidae;169;abondance;Famille;Chloroperlidae;Plecoptera
+170;Chloroperla;170;abondance;NA;Chloroperlidae;Plecoptera
+173;Chloroperla tripunctata;170;abondance;NA;Chloroperlidae;Plecoptera
+174;Siphonoperla;174;abondance;NA;Chloroperlidae;Plecoptera
+177;Siphonoperla torrentium;174;abondance;NA;Chloroperlidae;Plecoptera
+178;Xanthoperla;178;abondance;NA;Chloroperlidae;Plecoptera
+179;Xanthoperla apicalis;178;abondance;NA;Chloroperlidae;Plecoptera
+180;Isoptena;180;abondance;NA;Chloroperlidae;Plecoptera
+182;Rhyacophilidae;183;abondance;NA;Rhyacophilidae;Trichoptera
+183;Rhyacophila lato-sensu;183;abondance;NA;Rhyacophilidae;Trichoptera
+184;Hyporhyacophila;183;abondance;NA;Rhyacophilidae;Trichoptera
+185;Prorhyacophila;183;abondance;NA;Rhyacophilidae;Trichoptera
+187;Pararhyacophila;183;abondance;NA;Rhyacophilidae;Trichoptera
+188;Hyperrhyacophila;183;abondance;NA;Rhyacophilidae;Trichoptera
+189;Glossosomatidae;189;abondance;Famille;Glossosomatidae;Trichoptera
+190;Glossosoma;190;abondance;NA;Glossosomatidae;Trichoptera
+191;Agapetus;191;abondance;NA;Glossosomatidae;Trichoptera
+192;Synagapetus;192;abondance;NA;Glossosomatidae;Trichoptera
+193;Hydroptilidae;193;abondance;Famille;Hydroptilidae;Trichoptera
+194;Ptilocolepus;194;abondance;NA;Hydroptilidae;Trichoptera
+195;Ptilocolepus granulatus;194;abondance;NA;Hydroptilidae;Trichoptera
+196;Stactobia;196;abondance;NA;Hydroptilidae;Trichoptera
+197;Orthotrichia;197;abondance;NA;Hydroptilidae;Trichoptera
+198;Ithytrichia;198;abondance;NA;Hydroptilidae;Trichoptera
+199;Oxyethira;199;abondance;NA;Hydroptilidae;Trichoptera
+200;Hydroptila;200;abondance;NA;Hydroptilidae;Trichoptera
+201;Agraylea;201;abondance;NA;Hydroptilidae;Trichoptera
+202;Allotrichia;202;abondance;NA;Hydroptilidae;Trichoptera
+203;Allotrichia pallicornis;202;abondance;NA;Hydroptilidae;Trichoptera
+204;Tricholeiochiton;204;abondance;NA;Hydroptilidae;Trichoptera
+206;Philopotamidae;206;abondance;Famille;Philopotamidae;Trichoptera
+207;Chimarra;207;abondance;NA;Philopotamidae;Trichoptera
+208;Chimarra marginata;207;abondance;NA;Philopotamidae;Trichoptera
+209;Philopotamus;209;abondance;NA;Philopotamidae;Trichoptera
+210;Wormaldia;210;abondance;NA;Philopotamidae;Trichoptera
+211;Hydropsychidae;211;abondance;Famille;Hydropsychidae;Trichoptera
+212;Hydropsyche;212;abondance;NA;Hydropsychidae;Trichoptera
+213;Hydropsyche angustipennis;212;abondance;NA;Hydropsychidae;Trichoptera
+214;Hydropsyche bulgaromanorum;212;abondance;NA;Hydropsychidae;Trichoptera
+215;Hydropsyche contubernalis;212;abondance;NA;Hydropsychidae;Trichoptera
+216;Hydropsyche exocellata;212;abondance;NA;Hydropsychidae;Trichoptera
+217;Hydropsyche ornatula;212;abondance;NA;Hydropsychidae;Trichoptera
+218;Hydropsyche pellucidula;212;abondance;NA;Hydropsychidae;Trichoptera
+219;Hydropsyche saxonica;212;abondance;NA;Hydropsychidae;Trichoptera
+220;Hydropsyche siltalai;212;abondance;NA;Hydropsychidae;Trichoptera
+221;Cheumatopsyche;221;abondance;NA;Hydropsychidae;Trichoptera
+222;Cheumatopsyche lepida;221;abondance;NA;Hydropsychidae;Trichoptera
+223;Polycentropodidae;223;abondance;Famille;Polycentropodidae;Trichoptera
+224;Cyrnus;224;abondance;NA;Polycentropodidae;Trichoptera
+227;Cyrnus trimaculatus;224;abondance;NA;Polycentropodidae;Trichoptera
+228;Plectrocnemia;228;abondance;NA;Polycentropodidae;Trichoptera
+229;Plectrocnemia conspersa;228;abondance;NA;Polycentropodidae;Trichoptera
+230;Plectrocnemia geniculata;228;abondance;NA;Polycentropodidae;Trichoptera
+231;Polycentropus;231;abondance;NA;Polycentropodidae;Trichoptera
+232;Polycentropus flavomaculatus;231;abondance;NA;Polycentropodidae;Trichoptera
+233;Polycentropus irroratus;231;abondance;NA;Polycentropodidae;Trichoptera
+234;Polycentropus kingi;231;abondance;NA;Polycentropodidae;Trichoptera
+235;Holocentropus;235;abondance;NA;Polycentropodidae;Trichoptera
+236;Neureclipsis;236;abondance;NA;Polycentropodidae;Trichoptera
+237;Neureclipsis bimaculata;236;abondance;NA;Polycentropodidae;Trichoptera
+238;Psychomyiidae;238;abondance;Famille;Psychomyiidae;Trichoptera
+239;Psychomyia;239;abondance;NA;Psychomyiidae;Trichoptera
+240;Psychomyia pusilla;239;abondance;NA;Psychomyiidae;Trichoptera
+241;Lype;241;abondance;NA;Psychomyiidae;Trichoptera
+243;Lype phaeopa;241;abondance;NA;Psychomyiidae;Trichoptera
+244;Lype reducta;241;abondance;NA;Psychomyiidae;Trichoptera
+245;Tinodes;245;abondance;NA;Psychomyiidae;Trichoptera
+246;Metalype;246;abondance;NA;Psychomyiidae;Trichoptera
+247;Metalype fragilis;246;abondance;NA;Psychomyiidae;Trichoptera
+248;Ecnomidae;249;abondance;NA;Ecnomidae;Trichoptera
+249;Ecnomus;249;abondance;NA;Ecnomidae;Trichoptera
+250;Ecnomus tenellus;249;abondance;NA;Ecnomidae;Trichoptera
+251;Phryganeidae;251;abondance;Famille;Phryganeidae;Trichoptera
+252;Trichostegia;252;abondance;NA;Phryganeidae;Trichoptera
+253;Trichostegia minor;252;abondance;NA;Phryganeidae;Trichoptera
+254;Agrypnia;254;abondance;NA;Phryganeidae;Trichoptera
+255;Phryganea;255;abondance;NA;Phryganeidae;Trichoptera
+256;Oligotricha;256;abondance;NA;Phryganeidae;Trichoptera
+257;Oligotricha striata;256;abondance;NA;Phryganeidae;Trichoptera
+258;Hagenella;258;abondance;NA;Phryganeidae;Trichoptera
+259;Hagenella clathrata;258;abondance;NA;Phryganeidae;Trichoptera
+260;Oligostomis;260;abondance;NA;Phryganeidae;Trichoptera
+261;Oligostomis reticulata;260;abondance;NA;Phryganeidae;Trichoptera
+262;Brachycentridae;262;abondance;Famille;Brachycentridae;Trichoptera
+263;Oligoplectrum;263;abondance;NA;Brachycentridae;Trichoptera
+264;Oligoplectrum maculatum;263;abondance;NA;Brachycentridae;Trichoptera
+265;Brachycentrus;265;abondance;NA;Brachycentridae;Trichoptera
+266;Brachycentrus subnubilus;265;abondance;NA;Brachycentridae;Trichoptera
+267;Brachycentrus montanus;265;abondance;NA;Brachycentridae;Trichoptera
+268;Micrasema;268;abondance;NA;Brachycentridae;Trichoptera
+269;Micrasema minimum;268;abondance;NA;Brachycentridae;Trichoptera
+270;Micrasema moestum;268;abondance;NA;Brachycentridae;Trichoptera
+271;Micrasema morosum;268;abondance;NA;Brachycentridae;Trichoptera
+272;Micrasema longulum;268;abondance;NA;Brachycentridae;Trichoptera
+274;Micrasema setiferum;268;abondance;NA;Brachycentridae;Trichoptera
+276;Limnephilidae;276;abondance;Famille;Limnephilidae;Trichoptera
+277;Ironoquia;3121;abondance;NA;Limnephilidae;Trichoptera
+278;Ironoquia dubia;3121;abondance;NA;Limnephilidae;Trichoptera
+279;Apatania;3136;abondance;NA;Limnephilidae;Trichoptera
+280;Limnephilus;3163;abondance;NA;Limnephilidae;Trichoptera
+281;Anabolia;3163;abondance;NA;Limnephilidae;Trichoptera
+282;Anabolia nervosa;3163;abondance;NA;Limnephilidae;Trichoptera
+283;Drusini;3120;abondance;NA;Limnephilidae;Trichoptera
+284;Chaetopterygini;3163;abondance;NA;Limnephilidae;Trichoptera
+285;Stenophylacini;3163;abondance;NA;Limnephilidae;Trichoptera
+286;Goeridae;286;abondance;Famille;Goeridae;Trichoptera
+287;Goera;287;abondance;NA;Goeridae;Trichoptera
+288;Goera pilosa;287;abondance;NA;Goeridae;Trichoptera
+289;Lithax;289;abondance;NA;Goeridae;Trichoptera
+290;Lithax niger;289;abondance;NA;Goeridae;Trichoptera
+291;Lithax obscurus;289;abondance;NA;Goeridae;Trichoptera
+292;Silo;292;abondance;NA;Goeridae;Trichoptera
+294;Silo pallipes;292;abondance;NA;Goeridae;Trichoptera
+295;Silo nigricornis;292;abondance;NA;Goeridae;Trichoptera
+296;Silo piceus;292;abondance;NA;Goeridae;Trichoptera
+298;Silonella;298;abondance;NA;Goeridae;Trichoptera
+299;Silonella aurata;298;abondance;NA;Goeridae;Trichoptera
+300;Uenoidae;301;abondance;NA;Uenoidae;Trichoptera
+301;Thremma;301;abondance;NA;Uenoidae;Trichoptera
+302;Thremma gallicum;301;abondance;NA;Uenoidae;Trichoptera
+304;Lepidostomatidae;304;abondance;Famille;Lepidostomatidae;Trichoptera
+305;Lepidostoma;305;abondance;NA;Lepidostomatidae;Trichoptera
+306;Lepidostoma hirtum;305;abondance;NA;Lepidostomatidae;Trichoptera
+307;Lasiocephala;307;abondance;NA;Lepidostomatidae;Trichoptera
+308;Lasiocephala basalis;307;abondance;NA;Lepidostomatidae;Trichoptera
+309;Crunoecia;309;abondance;NA;Lepidostomatidae;Trichoptera
+310;Leptoceridae;310;abondance;Famille;Leptoceridae;Trichoptera
+311;Athripsodes;311;abondance;NA;Leptoceridae;Trichoptera
+312;Mystacides;312;abondance;NA;Leptoceridae;Trichoptera
+313;Ceraclea;313;abondance;NA;Leptoceridae;Trichoptera
+314;Triaenodes;314;abondance;NA;Leptoceridae;Trichoptera
+315;Erotesis;315;abondance;NA;Leptoceridae;Trichoptera
+316;Erotesis baltica;315;abondance;NA;Leptoceridae;Trichoptera
+317;Oecetis;317;abondance;NA;Leptoceridae;Trichoptera
+318;Setodes;318;abondance;NA;Leptoceridae;Trichoptera
+319;Leptocerus;319;abondance;NA;Leptoceridae;Trichoptera
+320;Adicella;320;abondance;NA;Leptoceridae;Trichoptera
+321;Sericostomatidae;321;abondance;Famille;Sericostomatidae;Trichoptera
+322;Sericostoma;322;abondance;NA;Sericostomatidae;Trichoptera
+323;Sericostoma flavicorne;322;abondance;NA;Sericostomatidae;Trichoptera
+324;Sericostoma personatum;322;abondance;NA;Sericostomatidae;Trichoptera
+325;Notidobia;325;abondance;NA;Sericostomatidae;Trichoptera
+326;Notidobia ciliaris;325;abondance;NA;Sericostomatidae;Trichoptera
+327;Beraeidae;327;abondance;Famille;Beraeidae;Trichoptera
+328;Beraea;328;abondance;NA;Beraeidae;Trichoptera
+329;Beraeodes;329;abondance;NA;Beraeidae;Trichoptera
+330;Ernodes;330;abondance;NA;Beraeidae;Trichoptera
+331;Beraeodina;331;abondance;NA;Beraeidae;Trichoptera
+332;Beraeodina palpalis;331;abondance;NA;Beraeidae;Trichoptera
+333;Beraeamyia;333;abondance;NA;Beraeidae;Trichoptera
+334;Beraeamyia squamosa;333;abondance;NA;Beraeidae;Trichoptera
+335;Helicopsychidae;336;abondance;NA;Helicopsychidae;Trichoptera
+336;Helicopsyche;336;abondance;NA;Helicopsychidae;Trichoptera
+338;Odontoceridae;339;abondance;NA;Odontoceridae;Trichoptera
+339;Odontocerum;339;abondance;NA;Odontoceridae;Trichoptera
+340;Odontocerum albicorne;339;abondance;NA;Odontoceridae;Trichoptera
+341;Calamoceratidae;342;abondance;NA;Calamoceratidae;Trichoptera
+342;Calamoceras;342;abondance;NA;Calamoceratidae;Trichoptera
+343;Calamoceras marsupus;342;abondance;NA;Calamoceratidae;Trichoptera
+344;Molannidae;344;abondance;Famille;Molannidae;Trichoptera
+345;Molanna;345;abondance;NA;Molannidae;Trichoptera
+346;Molannodes;346;abondance;NA;Molannidae;Trichoptera
+347;Molannodes tinctus;346;abondance;NA;Molannidae;Trichoptera
+349;Siphlonuridae;350;abondance;NA;Siphlonuridae;Ephemeroptera
+350;Siphlonurus;350;abondance;NA;Siphlonuridae;Ephemeroptera
+351;Siphlonurus aestivalis;350;abondance;NA;Siphlonuridae;Ephemeroptera
+352;Siphlonurus armatus;350;abondance;NA;Siphlonuridae;Ephemeroptera
+354;Siphlonurus lacustris;350;abondance;NA;Siphlonuridae;Ephemeroptera
+356;Ameletus;356;abondance;NA;Ameletidae;Ephemeroptera
+357;Ameletus inopinatus;356;abondance;NA;Ameletidae;Ephemeroptera
+358;Metreletus;358;abondance;NA;Ameletidae;Ephemeroptera
+359;Metreletus balcanicus;358;abondance;NA;Ameletidae;Ephemeroptera
+362;Ametropus;362;abondance;NA;Ametropodidae;Ephemeroptera
+363;Baetidae;363;abondance;Famille;Baetidae;Ephemeroptera
+364;Baetis;364;abondance;NA;Baetidae;Ephemeroptera
+365;Baetis alpinus;364;abondance;NA;Baetidae;Ephemeroptera
+366;Baetis buceratus;364;abondance;NA;Baetidae;Ephemeroptera
+367;Baetis digitatus;364;abondance;NA;Baetidae;Ephemeroptera
+368;Baetis fuscatus;364;abondance;NA;Baetidae;Ephemeroptera
+369;Baetis gemellus;364;abondance;NA;Baetidae;Ephemeroptera
+370;Baetis lutheri;364;abondance;NA;Baetidae;Ephemeroptera
+372;Baetis muticus;364;abondance;NA;Baetidae;Ephemeroptera
+373;Baetis niger;364;abondance;NA;Baetidae;Ephemeroptera
+374;Baetis pavidus;364;abondance;NA;Baetidae;Ephemeroptera
+376;Baetis rhodani;364;abondance;NA;Baetidae;Ephemeroptera
+377;Baetis scambus;364;abondance;NA;Baetidae;Ephemeroptera
+378;Acentrella sinaica;5151;abondance;NA;Baetidae;Ephemeroptera
+380;Baetis vernus;364;abondance;NA;Baetidae;Ephemeroptera
+381;Baetis atrebatinus;364;abondance;NA;Baetidae;Ephemeroptera
+383;Centroptilum;383;abondance;NA;Baetidae;Ephemeroptera
+384;Centroptilum luteolum;383;abondance;NA;Baetidae;Ephemeroptera
+385;Pseudocentroptilum pennulatum;3207;abondance;NA;Baetidae;Ephemeroptera
+387;Cloeon;387;abondance;NA;Baetidae;Ephemeroptera
+388;Cloeon dipterum;387;abondance;NA;Baetidae;Ephemeroptera
+389;Cloeon simile;387;abondance;NA;Baetidae;Ephemeroptera
+390;Procloeon;390;abondance;NA;Baetidae;Ephemeroptera
+391;Procloeon bifidum;390;abondance;NA;Baetidae;Ephemeroptera
+392;Procloeon ornatum;390;abondance;NA;Baetidae;Ephemeroptera
+393;Oligoneuriidae;394;abondance;NA;Oligoneuriidae;Ephemeroptera
+394;Oligoneuriella;394;abondance;NA;Oligoneuriidae;Ephemeroptera
+395;Oligoneuriella rhenana;394;abondance;NA;Oligoneuriidae;Ephemeroptera
+396;Isonychiidae;397;abondance;NA;Isonychiidae;Ephemeroptera
+397;Isonychia;397;abondance;NA;Isonychiidae;Ephemeroptera
+398;Isonychia ignota;397;abondance;NA;Isonychiidae;Ephemeroptera
+399;Heptageniidae;399;abondance;Famille;Heptageniidae;Ephemeroptera
+400;Epeorus;400;abondance;NA;Heptageniidae;Ephemeroptera
+401;Epeorus alpicola;400;abondance;NA;Heptageniidae;Ephemeroptera
+402;Epeorus sylvicola;400;abondance;NA;Heptageniidae;Ephemeroptera
+403;Epeorus torrentium;400;abondance;NA;Heptageniidae;Ephemeroptera
+404;Rhithrogena;404;abondance;NA;Heptageniidae;Ephemeroptera
+420;Rhithrogena semicolorata;404;abondance;NA;Heptageniidae;Ephemeroptera
+421;Ecdyonurus;421;abondance;NA;Heptageniidae;Ephemeroptera
+423;Ecdyonurus aurantiacus;421;abondance;NA;Heptageniidae;Ephemeroptera
+425;Ecdyonurus dispar;421;abondance;NA;Heptageniidae;Ephemeroptera
+427;Ecdyonurus forcipula;421;abondance;NA;Heptageniidae;Ephemeroptera
+431;Ecdyonurus insignis;421;abondance;NA;Heptageniidae;Ephemeroptera
+434;Ecdyonurus picteti;421;abondance;NA;Heptageniidae;Ephemeroptera
+439;Ecdyonurus torrentis;421;abondance;NA;Heptageniidae;Ephemeroptera
+440;Ecdyonurus venosus;421;abondance;NA;Heptageniidae;Ephemeroptera
+443;Heptagenia;443;abondance;NA;Heptageniidae;Ephemeroptera
+444;Heptagenia coerulans;443;abondance;NA;Heptageniidae;Ephemeroptera
+445;Heptagenia flava;443;abondance;NA;Heptageniidae;Ephemeroptera
+446;Heptagenia fuscogrisea;443;abondance;NA;Heptageniidae;Ephemeroptera
+447;Heptagenia longicauda;443;abondance;NA;Heptageniidae;Ephemeroptera
+448;Heptagenia sulphurea;443;abondance;NA;Heptageniidae;Ephemeroptera
+449;Ephemerellidae;449;abondance;Famille;Ephemerellidae;Ephemeroptera
+450;Ephemerella;450;abondance;NA;Ephemerellidae;Ephemeroptera
+451;Ephemerella ignita;450;abondance;NA;Ephemerellidae;Ephemeroptera
+452;Torleya major;2391;abondance;NA;Ephemerellidae;Ephemeroptera
+453;Ephemerella mesoleuca;450;abondance;NA;Ephemerellidae;Ephemeroptera
+454;Ephemerella mucronata;450;abondance;NA;Ephemerellidae;Ephemeroptera
+455;Ephemerella notata;450;abondance;NA;Ephemerellidae;Ephemeroptera
+456;Caenidae;456;abondance;Famille;Caenidae;Ephemeroptera
+457;Caenis;457;abondance;NA;Caenidae;Ephemeroptera
+458;Caenis beskidensis;457;abondance;NA;Caenidae;Ephemeroptera
+459;Caenis horaria;457;abondance;NA;Caenidae;Ephemeroptera
+460;Caenis lactea;457;abondance;NA;Caenidae;Ephemeroptera
+461;Caenis luctuosa;457;abondance;NA;Caenidae;Ephemeroptera
+462;Caenis macrura;457;abondance;NA;Caenidae;Ephemeroptera
+463;Caenis pseudorivulorum;457;abondance;NA;Caenidae;Ephemeroptera
+464;Caenis pusilla;457;abondance;NA;Caenidae;Ephemeroptera
+466;Caenis rivulorum;457;abondance;NA;Caenidae;Ephemeroptera
+467;Caenis robusta;457;abondance;NA;Caenidae;Ephemeroptera
+468;Brachycercus;468;abondance;NA;Caenidae;Ephemeroptera
+469;Brachycercus harrisella;468;abondance;NA;Caenidae;Ephemeroptera
+470;Prosopistomatidae;471;abondance;NA;Prosopistomatidae;Ephemeroptera
+471;Prosopistoma;471;abondance;NA;Prosopistomatidae;Ephemeroptera
+473;Leptophlebiidae;473;abondance;Famille;Leptophlebiidae;Ephemeroptera
+474;Choroterpes;474;abondance;NA;Leptophlebiidae;Ephemeroptera
+475;Choroterpes picteti;474;abondance;NA;Leptophlebiidae;Ephemeroptera
+476;Thraulus;476;abondance;NA;Leptophlebiidae;Ephemeroptera
+477;Thraulus bellus;476;abondance;NA;Leptophlebiidae;Ephemeroptera
+478;Leptophlebia;478;abondance;NA;Leptophlebiidae;Ephemeroptera
+479;Leptophlebia marginata;478;abondance;NA;Leptophlebiidae;Ephemeroptera
+481;Paraleptophlebia;481;abondance;NA;Leptophlebiidae;Ephemeroptera
+482;Paraleptophlebia cincta;481;abondance;NA;Leptophlebiidae;Ephemeroptera
+483;Paraleptophlebia submarginata;481;abondance;NA;Leptophlebiidae;Ephemeroptera
+485;Habroleptoides;485;abondance;NA;Leptophlebiidae;Ephemeroptera
+489;Habroleptoides confusa;485;abondance;NA;Leptophlebiidae;Ephemeroptera
+491;Habrophlebia;491;abondance;NA;Leptophlebiidae;Ephemeroptera
+493;Habrophlebia fusca;491;abondance;NA;Leptophlebiidae;Ephemeroptera
+494;Habrophlebia lauta;491;abondance;NA;Leptophlebiidae;Ephemeroptera
+495;Polymitarcidae;496;abondance;NA;Polymitarcyidae;Ephemeroptera
+496;Ephoron;496;abondance;NA;Polymitarcyidae;Ephemeroptera
+497;Ephoron virgo;496;abondance;NA;Polymitarcyidae;Ephemeroptera
+501;Ephemeridae;502;abondance;NA;Ephemeridae;Ephemeroptera
+502;Ephemera;502;abondance;NA;Ephemeridae;Ephemeroptera
+503;Ephemera danica;502;abondance;NA;Ephemeridae;Ephemeroptera
+504;Ephemera glaucops;502;abondance;NA;Ephemeridae;Ephemeroptera
+505;Ephemera lineata;502;abondance;NA;Ephemeridae;Ephemeroptera
+506;Ephemera vulgata;502;abondance;NA;Ephemeridae;Ephemeroptera
+508;Potamanthidae;509;abondance;NA;Potamanthidae;Ephemeroptera
+509;Potamanthus;509;abondance;NA;Potamanthidae;Ephemeroptera
+510;Potamanthus luteus;509;abondance;NA;Potamanthidae;Ephemeroptera
+512;Gyrinidae;512;abondance;Famille;Gyrinidae;Coleoptera
+513;Aulonogyrus;513;abondance;NA;Gyrinidae;Coleoptera
+514;Gyrinus;514;abondance;NA;Gyrinidae;Coleoptera
+515;Orectochilus;515;abondance;NA;Gyrinidae;Coleoptera
+516;Orectochilus villosus;515;abondance;NA;Gyrinidae;Coleoptera
+517;Haliplidae;517;abondance;Famille;Haliplidae;Coleoptera
+518;Haliplus;518;abondance;NA;Haliplidae;Coleoptera
+519;Peltodytes;519;abondance;NA;Haliplidae;Coleoptera
+520;Brychius;520;abondance;NA;Haliplidae;Coleoptera
+521;Brychius elevatus;520;abondance;NA;Haliplidae;Coleoptera
+522;Hygrobiidae;523;abondance;NA;Hygrobiidae;Coleoptera
+523;Hygrobia;523;abondance;NA;Hygrobiidae;Coleoptera
+525;Noteridae;526;abondance;NA;Noteridae;Coleoptera
+526;Noterus;526;abondance;NA;Noteridae;Coleoptera
+527;Dytiscidae;527;abondance;Famille;Dytiscidae;Coleoptera
+528;Hyphydrus;2393;abondance;NA;Dytiscidae;Coleoptera
+529;Hydrovatus;2393;abondance;NA;Dytiscidae;Coleoptera
+530;Yola;2393;abondance;NA;Dytiscidae;Coleoptera
+531;Yola bicarinata;2393;abondance;NA;Dytiscidae;Coleoptera
+532;Bidessus;2393;abondance;NA;Dytiscidae;Coleoptera
+533;Guignotus;2393;abondance;NA;Dytiscidae;Coleoptera
+534;Guignotus pusillus;2393;abondance;NA;Dytiscidae;Coleoptera
+535;Coelambus;2393;abondance;NA;Dytiscidae;Coleoptera
+536;Hygrotus;2393;abondance;NA;Dytiscidae;Coleoptera
+537;Hydroporus;2393;abondance;NA;Dytiscidae;Coleoptera
+538;Porhydrus;2393;abondance;NA;Dytiscidae;Coleoptera
+542;Graptodytes;2393;abondance;NA;Dytiscidae;Coleoptera
+544;Metaporus meridionalis;2393;abondance;NA;Dytiscidae;Coleoptera
+545;Laccornis;2393;abondance;NA;Dytiscidae;Coleoptera
+546;Scarodytes;2393;abondance;NA;Dytiscidae;Coleoptera
+547;Scarodytes halensis;2393;abondance;NA;Dytiscidae;Coleoptera
+548;Stictonectes;2393;abondance;NA;Dytiscidae;Coleoptera
+549;Deronectes;2393;abondance;NA;Dytiscidae;Coleoptera
+550;Stictotarsus;2393;abondance;NA;Dytiscidae;Coleoptera
+551;Potamonectes;2393;abondance;NA;Dytiscidae;Coleoptera
+552;Oreodytes;2393;abondance;NA;Dytiscidae;Coleoptera
+553;Laccophilus;2394;abondance;NA;Dytiscidae;Coleoptera
+554;Copelatus;5195;abondance;NA;Dytiscidae;Coleoptera
+555;Agabus;2395;abondance;NA;Dytiscidae;Coleoptera
+556;Platambus;2395;abondance;NA;Dytiscidae;Coleoptera
+557;Platambus maculatus;2395;abondance;NA;Dytiscidae;Coleoptera
+560;Ilybius;2395;abondance;NA;Dytiscidae;Coleoptera
+561;Rhantus;2395;abondance;NA;Dytiscidae;Coleoptera
+562;Colymbetes;2395;abondance;NA;Dytiscidae;Coleoptera
+563;Meladema;2395;abondance;NA;Dytiscidae;Coleoptera
+565;Hydaticus;2396;abondance;NA;Dytiscidae;Coleoptera
+567;Acilius;2396;abondance;NA;Dytiscidae;Coleoptera
+568;Dytiscus;2396;abondance;NA;Dytiscidae;Coleoptera
+569;Cybister;2396;abondance;NA;Dytiscidae;Coleoptera
+571;Hydrophilidae;571;abondance;Famille;Hydrophilidae;Coleoptera
+572;Crenitis;2517;abondance;NA;Hydrophilidae;Coleoptera
+573;Crenitis punctatostriata;2517;abondance;NA;Hydrophilidae;Coleoptera
+574;Haemisphaera;2517;abondance;NA;Hydrophilidae;Coleoptera
+576;Hydrobius;2517;abondance;NA;Hydrophilidae;Coleoptera
+577;Limnoxenus;2517;abondance;NA;Hydrophilidae;Coleoptera
+578;Limnoxenus niger;2517;abondance;NA;Hydrophilidae;Coleoptera
+579;Paracymus;2517;abondance;NA;Hydrophilidae;Coleoptera
+580;Anacaena;2517;abondance;NA;Hydrophilidae;Coleoptera
+581;Laccobius;2517;abondance;NA;Hydrophilidae;Coleoptera
+582;Helochares;2517;abondance;NA;Hydrophilidae;Coleoptera
+583;Enochrus;2517;abondance;NA;Hydrophilidae;Coleoptera
+586;Chaetarthria;2517;abondance;NA;Hydrophilidae;Coleoptera
+588;Hydrophilus;2517;abondance;NA;Hydrophilidae;Coleoptera
+589;Hydrous piceus;2517;abondance;NA;Hydrophilidae;Coleoptera
+592;Hydrochara;2517;abondance;NA;Hydrophilidae;Coleoptera
+595;Berosus;2517;abondance;NA;Hydrophilidae;Coleoptera
+596;Sphaeridiidae;5194;abondance;NA;Hydrophilidae;Coleoptera
+597;Coelostoma;5194;abondance;NA;Hydrophilidae;Coleoptera
+599;Limnebius;599;abondance;NA;Hydraenidae;Coleoptera
+600;Spercheidae;601;abondance;NA;Spercheidae;Coleoptera
+601;Spercheus;601;abondance;NA;Spercheidae;Coleoptera
+602;Spercheus emarginatus;601;abondance;NA;Spercheidae;Coleoptera
+603;Helophoridae;604;abondance;NA;Helophoridae;Coleoptera
+604;Helophorus;604;abondance;NA;Helophoridae;Coleoptera
+605;Hydrochidae;606;abondance;NA;Hydrochidae;Coleoptera
+606;Hydrochus;606;abondance;NA;Hydrochidae;Coleoptera
+607;Hydraenidae;607;abondance;Famille;Hydraenidae;Coleoptera
+608;Hydraena;608;abondance;NA;Hydraenidae;Coleoptera
+609;Ochthebius;609;abondance;NA;Hydraenidae;Coleoptera
+610;Dryopidae;610;abondance;Famille;Dryopidae;Coleoptera
+611;Helichus;33844;abondance;NA;Dryopidae;Coleoptera
+612;Helichus substriatus;33844;abondance;NA;Dryopidae;Coleoptera
+613;Dryops;613;abondance;NA;Dryopidae;Coleoptera
+614;Elmidae;614;abondance;Famille;Elmidae;Coleoptera
+615;Potamophilus;615;abondance;NA;Elmidae;Coleoptera
+616;Potamophilus acuminatus;615;abondance;NA;Elmidae;Coleoptera
+617;Stenelmis;617;abondance;NA;Elmidae;Coleoptera
+618;Elmis;618;abondance;NA;Elmidae;Coleoptera
+619;Esolus;619;abondance;NA;Elmidae;Coleoptera
+620;Dupophilus;620;abondance;NA;Elmidae;Coleoptera
+621;Dupophilus brevis;620;abondance;NA;Elmidae;Coleoptera
+622;Oulimnius;622;abondance;NA;Elmidae;Coleoptera
+623;Limnius;623;abondance;NA;Elmidae;Coleoptera
+624;Normandia;624;abondance;NA;Elmidae;Coleoptera
+625;Riolus;625;abondance;NA;Elmidae;Coleoptera
+626;Macronychus;626;abondance;NA;Elmidae;Coleoptera
+627;Macronychus quadrituberculatus;626;abondance;NA;Elmidae;Coleoptera
+628;Hydroscaphidae;629;abondance;NA;Hydroscaphidae;Coleoptera
+629;Hydroscapha;629;abondance;NA;Hydroscaphidae;Coleoptera
+630;Hydroscapha granulum;629;abondance;NA;Hydroscaphidae;Coleoptera
+631;Psephenidae;632;abondance;NA;Psephenidae;Coleoptera
+632;Eubria;632;abondance;NA;Psephenidae;Coleoptera
+633;Eubria palustris;632;abondance;NA;Psephenidae;Coleoptera
+634;Scirtidae;634;abondance;Famille;Scirtidae;Coleoptera
+635;Cyphon;635;abondance;NA;Scirtidae;Coleoptera
+636;Helodes;636;abondance;NA;Scirtidae;Coleoptera
+637;Hydrocyphon;637;abondance;NA;Scirtidae;Coleoptera
+638;Hydrocyphon deflexicollis;637;abondance;NA;Scirtidae;Coleoptera
+639;Microcara;639;abondance;NA;Scirtidae;Coleoptera
+640;Microcara testacea;639;abondance;NA;Scirtidae;Coleoptera
+641;Scirtes;641;abondance;NA;Scirtidae;Coleoptera
+642;Chrysomelidae;642;abondance;Famille;Chrysomelidae;Coleoptera
+643;Macroplea;643;abondance;NA;Chrysomelidae;Coleoptera
+644;Macroplea appendiculata;643;abondance;NA;Chrysomelidae;Coleoptera
+645;Donacia;645;abondance;NA;Chrysomelidae;Coleoptera
+646;Plateumaris;646;abondance;NA;Chrysomelidae;Coleoptera
+647;Curculionidae;647;abondance;NA;Curculionidae;Coleoptera
+649;Calopterygidae;650;abondance;NA;Calopterygidae;Odonata
+650;Calopteryx;650;abondance;NA;Calopterygidae;Odonata
+651;Calopteryx splendens;650;abondance;NA;Calopterygidae;Odonata
+652;Calopteryx virgo;650;abondance;NA;Calopterygidae;Odonata
+653;Lestidae;653;abondance;Famille;Lestidae;Odonata
+654;Sympecma;654;abondance;NA;Lestidae;Odonata
+655;Lestes;655;abondance;NA;Lestidae;Odonata
+656;Platycnemididae;657;abondance;NA;Platycnemididae;Odonata
+657;Platycnemis;657;abondance;NA;Platycnemididae;Odonata
+658;Coenagrionidae;658;abondance;NA;Coenagrionidae;Odonata
+659;Pyrrhosoma;658;abondance;NA;Coenagrionidae;Odonata
+660;Pyrrhosoma nymphula;658;abondance;NA;Coenagrionidae;Odonata
+661;Erythromma;658;abondance;NA;Coenagrionidae;Odonata
+662;Cercion;658;abondance;NA;Coenagrionidae;Odonata
+663;Coenagrion;658;abondance;NA;Coenagrionidae;Odonata
+664;Enallagma;658;abondance;NA;Coenagrionidae;Odonata
+665;Enallagma cyathigerum;658;abondance;NA;Coenagrionidae;Odonata
+666;Ischnura;658;abondance;NA;Coenagrionidae;Odonata
+667;Ceriagrion;658;abondance;NA;Coenagrionidae;Odonata
+668;Ceriagrion tenellum;658;abondance;NA;Coenagrionidae;Odonata
+669;Aeshnidae;669;abondance;Famille;Aeshnidae;Odonata
+670;Boyeria;670;abondance;NA;Aeshnidae;Odonata
+671;Boyeria irene;670;abondance;NA;Aeshnidae;Odonata
+672;Brachytron;672;abondance;NA;Aeshnidae;Odonata
+673;Brachytron pratense;672;abondance;NA;Aeshnidae;Odonata
+674;Aeshna;674;abondance;NA;Aeshnidae;Odonata
+675;Anax;675;abondance;NA;Aeshnidae;Odonata
+676;Hemianax;676;abondance;NA;Aeshnidae;Odonata
+677;Hemianax ephippiger;676;abondance;NA;Aeshnidae;Odonata
+678;Gomphidae;678;abondance;Famille;Gomphidae;Odonata
+679;Gomphus;679;abondance;NA;Gomphidae;Odonata
+680;Ophiogomphus;680;abondance;NA;Gomphidae;Odonata
+682;Onychogomphus;682;abondance;NA;Gomphidae;Odonata
+683;Paragomphus;683;abondance;NA;Gomphidae;Odonata
+684;Paragomphus genei;683;abondance;NA;Gomphidae;Odonata
+686;Cordulegastridae;687;abondance;NA;Cordulegasteridae;Odonata
+687;Cordulegaster;687;abondance;NA;Cordulegasteridae;Odonata
+688;Cordulegaster boltoni;687;abondance;NA;Cordulegasteridae;Odonata
+689;Cordulegaster bidentata;687;abondance;NA;Cordulegasteridae;Odonata
+690;Corduliidae;690;abondance;Famille;Corduliidae;Odonata
+691;Oxygastra;691;abondance;NA;Corduliidae;Odonata
+692;Oxygastra curtisii;691;abondance;NA;Corduliidae;Odonata
+693;Somatochlora;693;abondance;NA;Corduliidae;Odonata
+694;Macromia;694;abondance;NA;Macromiidae;Odonata
+695;Macromia splendens;694;abondance;NA;Macromiidae;Odonata
+696;Libellulidae;696;abondance;Famille;Libellulidae;Odonata
+697;Libellula;697;abondance;NA;Libellulidae;Odonata
+698;Orthetrum;698;abondance;NA;Libellulidae;Odonata
+699;Sympetrum;699;abondance;NA;Libellulidae;Odonata
+702;Megaloptera;704;abondance;NA;NA;Megaloptera
+703;Sialidae;704;abondance;NA;Sialidae;Megaloptera
+704;Sialis;704;abondance;NA;Sialidae;Megaloptera
+705;Sialis lutaria;704;abondance;NA;Sialidae;Megaloptera
+706;Sialis fuliginosa;704;abondance;NA;Sialidae;Megaloptera
+707;Sialis nigripes;704;abondance;NA;Sialidae;Megaloptera
+709;Corixidae;709;abondance;Famille;Corixidae;Hemiptera
+710;Arctocorisa;5196;abondance;NA;Corixidae;Hemiptera
+712;Corixa;5196;abondance;NA;Corixidae;Hemiptera
+713;Hesperocorixa;5196;abondance;NA;Corixidae;Hemiptera
+716;Sigara;5196;abondance;NA;Corixidae;Hemiptera
+718;Cymatia;718;abondance;NA;Corixidae;Hemiptera
+719;Micronecta;719;abondance;NA;Corixidae;Hemiptera
+720;Aphelocheiridae;721;abondance;NA;Aphelocheiridae;Hemiptera
+721;Aphelocheirus;721;abondance;NA;Aphelocheiridae;Hemiptera
+722;Naucoridae;722;abondance;NA;Naucoridae;Hemiptera
+723;Ilyocoris;722;abondance;NA;Naucoridae;Hemiptera
+724;Naucoris;722;abondance;NA;Naucoridae;Hemiptera
+725;Nepidae;725;abondance;NA;Nepidae;Hemiptera
+726;Nepa;725;abondance;NA;Nepidae;Hemiptera
+727;Ranatra;725;abondance;NA;Nepidae;Hemiptera
+728;Notonectidae;728;abondance;NA;Notonectidae;Hemiptera
+729;Anisops;728;abondance;NA;Notonectidae;Hemiptera
+730;Notonecta;728;abondance;NA;Notonectidae;Hemiptera
+731;Nychia;728;abondance;NA;Notonectidae;Hemiptera
+732;Pleidae;733;abondance;NA;Pleidae;Hemiptera
+733;Plea;733;abondance;NA;Pleidae;Hemiptera
+734;Gerridae;735;abondance;NA;Gerridae;Hemiptera
+735;Gerris;735;abondance;NA;Gerridae;Hemiptera
+737;Hebridae;738;abondance;NA;Hebridae;Hemiptera
+738;Hebrus;738;abondance;NA;Hebridae;Hemiptera
+739;Hydrometridae;740;abondance;NA;Hydrometridae;Hemiptera
+740;Hydrometra;740;abondance;NA;Hydrometridae;Hemiptera
+741;Mesoveliidae;742;abondance;NA;Mesoveliidae;Hemiptera
+742;Mesovelia;742;abondance;NA;Mesoveliidae;Hemiptera
+743;Veliidae;743;abondance;NA;Veliidae;Hemiptera
+744;Microvelia;743;abondance;NA;Veliidae;Hemiptera
+745;Velia;743;abondance;NA;Veliidae;Hemiptera
+747;Blephariceridae;747;abondance;NA;Blephariceridae;Diptera
+749;Blepharicera;747;abondance;NA;Blephariceridae;Diptera
+750;Dioptopsis;747;abondance;NA;Blephariceridae;Diptera
+751;Hapalothrix;747;abondance;NA;Blephariceridae;Diptera
+752;Liponeura;747;abondance;NA;Blephariceridae;Diptera
+753;Tipulidae;753;abondance;NA;Tipulidae;Diptera
+754;Tipula;753;abondance;NA;Tipulidae;Diptera
+755;Cylindrotomidae;755;abondance;NA;Cylindrotomidae;Diptera
+757;Limoniidae;757;abondance;NA;Limoniidae;Diptera
+759;Antocha;757;abondance;NA;Limoniidae;Diptera
+763;Pedicia;757;abondance;NA;Limoniidae;Diptera
+765;Dicranota;757;abondance;NA;Limoniidae;Diptera
+766;Dactylolabis;757;abondance;NA;Limoniidae;Diptera
+767;Eloeophila;757;abondance;NA;Limoniidae;Diptera
+768;Limnophila;757;abondance;NA;Limoniidae;Diptera
+771;Pilaria;757;abondance;NA;Limoniidae;Diptera
+772;Neolimnomyia;757;abondance;NA;Limoniidae;Diptera
+773;Hexatoma;757;abondance;NA;Limoniidae;Diptera
+774;Erioptera;757;abondance;NA;Limoniidae;Diptera
+783;Psychodidae;783;abondance;NA;Psychodidae;Diptera
+784;Berdeniella;783;abondance;NA;Psychodidae;Diptera
+785;Pericoma;783;abondance;NA;Psychodidae;Diptera
+789;Ptychopteridae;789;abondance;NA;Ptychopteridae;Diptera
+790;Ptychoptera;789;abondance;NA;Ptychopteridae;Diptera
+791;Chaoboridae;791;abondance;NA;Chaoboridae;Diptera
+792;Chaoborus;791;abondance;NA;Chaoboridae;Diptera
+793;Dixidae;793;abondance;NA;Dixidae;Diptera
+794;Dixa;793;abondance;NA;Dixidae;Diptera
+795;Dixella;793;abondance;NA;Dixidae;Diptera
+796;Culicidae;796;abondance;NA;Culicidae;Diptera
+797;Anopheles;796;abondance;NA;Culicidae;Diptera
+800;Culex;796;abondance;NA;Culicidae;Diptera
+801;Simuliidae;801;abondance;NA;Simuliidae;Diptera
+806;Simulium;801;abondance;NA;Simuliidae;Diptera
+807;Chironomidae;807;abondance;NA;Chironomidae;Diptera
+808;Podonominae;807;abondance;NA;Chironomidae;Diptera
+809;Tanypodinae;807;abondance;NA;Chironomidae;Diptera
+810;Diamesinae;807;abondance;NA;Chironomidae;Diptera
+813;Orthocladiinae;807;abondance;NA;Chironomidae;Diptera
+815;Chironominae;807;abondance;NA;Chironomidae;Diptera
+816;Chironomini;807;abondance;NA;Chironomidae;Diptera
+818;Tanytarsini;807;abondance;NA;Chironomidae;Diptera
+819;Ceratopogonidae;819;abondance;NA;Ceratopogonidae;Diptera
+820;Atrichopogon;819;abondance;NA;Ceratopogonidae;Diptera
+821;Dasyheleinae;819;abondance;NA;Ceratopogonidae;Diptera
+822;Ceratopogoninae;819;abondance;NA;Ceratopogonidae;Diptera
+823;Thaumaleidae;823;abondance;NA;Thaumaleidae;Diptera
+824;Stratiomyidae;824;abondance;NA;Stratiomyidae;Diptera
+827;Odontomyia;824;abondance;NA;Stratiomyidae;Diptera
+828;Nemotelus;824;abondance;NA;Stratiomyidae;Diptera
+829;Oxycera;824;abondance;NA;Stratiomyidae;Diptera
+831;Empididae;831;abondance;NA;Empididae;Diptera
+832;Hemerodromia;831;abondance;NA;Empididae;Diptera
+834;Atalanta;831;abondance;NA;Empididae;Diptera
+835;Wiedemannia;831;abondance;NA;Empididae;Diptera
+836;Dolichopodidae;836;abondance;NA;Dolichopodidae;Diptera
+837;Tabanidae;837;abondance;NA;Tabanidae;Diptera
+838;Athericidae;838;abondance;NA;Athericidae;Diptera
+839;Atherix;838;abondance;NA;Athericidae;Diptera
+840;Atrichops;838;abondance;NA;Athericidae;Diptera
+841;Rhagionidae;841;abondance;NA;Rhagionidae;Diptera
+842;Chrysopilus;841;abondance;NA;Rhagionidae;Diptera
+843;Syrphidae;843;abondance;NA;Syrphidae;Diptera
+844;Ephydridae;844;abondance;NA;Ephydridae;Diptera
+845;Sciomyzidae;845;abondance;NA;Sciomyzidae;Diptera
+846;Scathophagidae;846;abondance;NA;Scatophagidae;Diptera
+847;Anthomyiidae;847;abondance;NA;Anthomyidae;Diptera
+848;Limnophora;847;abondance;NA;Anthomyidae;Diptera
+849;Lepidoptera;2947;abondance;NA;NA;Lepidoptera
+853;Osmylidae;854;abondance;NA;Osmylidae;Neuroptera
+854;Osmylus;854;abondance;NA;Osmylidae;Neuroptera
+855;Sisyridae;856;abondance;NA;Sisyridae;Neuroptera
+856;Sisyra;856;abondance;NA;Sisyridae;Neuroptera
+857;Neurorthidae;858;abondance;NA;Neurorthidae;Neuroptera
+858;Neurorthus;858;abondance;NA;Neurorthidae;Neuroptera
+860;Atyidae;861;abondance;NA;Atyidae;Decapoda
+861;Atyaephyra;861;abondance;NA;Atyidae;Decapoda
+862;Atyaephyra desmarestii;861;abondance;NA;Atyidae;Decapoda
+864;Astacidae;864;abondance;Famille;Astacidae;Decapoda
+865;Astacus;865;abondance;NA;Astacidae;Decapoda
+866;Astacus astacus;865;abondance;NA;Astacidae;Decapoda
+867;Austropotamobius;867;abondance;NA;Astacidae;Decapoda
+868;Austropotamobius pallipes;867;abondance;NA;Astacidae;Decapoda
+870;Orconectes;870;abondance;NA;Cambaridae;Decapoda
+871;Orconectes limosus;870;abondance;NA;Cambaridae;Decapoda
+872;Pacifastacus;872;abondance;NA;Astacidae;Decapoda
+873;Pacifastacus leniusculus;872;abondance;NA;Astacidae;Decapoda
+874;Potamonidae;875;abondance;NA;Potamonidae;Decapoda
+875;Potamon;875;abondance;NA;Potamonidae;Decapoda
+877;Grapsidae;878;abondance;NA;Grapsidae;Decapoda
+878;Eriocheir;878;abondance;NA;Grapsidae;Decapoda
+879;Eriocheir sinensis;878;abondance;NA;Grapsidae;Decapoda
+880;Asellidae;880;abondance;NA;Asellidae;Isopoda
+881;Asellus;880;abondance;NA;Asellidae;Isopoda
+882;Asellus aquaticus;880;abondance;NA;Asellidae;Isopoda
+883;Proasellus;880;abondance;NA;Asellidae;Isopoda
+885;Proasellus meridianus;880;abondance;NA;Asellidae;Isopoda
+887;Gammaridae;887;abondance;Famille;Gammaridae;Amphipoda
+888;Echinogammarus;888;abondance;NA;Gammaridae;Amphipoda
+889;Echinogammarus berilloni;888;abondance;NA;Gammaridae;Amphipoda
+892;Gammarus;892;abondance;NA;Gammaridae;Amphipoda
+895;Gammarus fossarum;892;abondance;NA;Gammaridae;Amphipoda
+897;Gammarus pulex;892;abondance;NA;Gammaridae;Amphipoda
+898;Gammarus roeselii;892;abondance;NA;Gammaridae;Amphipoda
+902;Niphargus;902;abondance;NA;Niphargidae;Amphipoda
+905;Niphargus virei;902;abondance;NA;Niphargidae;Amphipoda
+906;Hydracarina;906;presence;NA;NA;Hydracarina
+908;Glossiphoniidae;908;abondance;NA;Glossiphoniidae;Hirudinea
+909;Glossiphonia;908;abondance;NA;Glossiphoniidae;Hirudinea
+910;Glossiphonia complanata;908;abondance;NA;Glossiphoniidae;Hirudinea
+911;Glossiphonia heteroclita;908;abondance;NA;Glossiphoniidae;Hirudinea
+912;Helobdella;908;abondance;NA;Glossiphoniidae;Hirudinea
+913;Helobdella stagnalis;908;abondance;NA;Glossiphoniidae;Hirudinea
+914;Hemiclepsis;908;abondance;NA;Glossiphoniidae;Hirudinea
+915;Hemiclepsis marginata;908;abondance;NA;Glossiphoniidae;Hirudinea
+916;Haementeria;908;abondance;NA;Glossiphoniidae;Hirudinea
+917;Haementeria costata;908;abondance;NA;Glossiphoniidae;Hirudinea
+918;Piscicolidae;918;abondance;NA;Piscicolidae;Hirudinea
+919;Piscicola;918;abondance;NA;Piscicolidae;Hirudinea
+920;Piscicola geometra;918;abondance;NA;Piscicolidae;Hirudinea
+923;Hirudidae;923;abondance;NA;Hirudidae;Hirudinea
+924;Hirudo;923;abondance;NA;Hirudidae;Hirudinea
+925;Hirudo medicinalis;923;abondance;NA;Hirudidae;Hirudinea
+926;Haemopis;923;abondance;NA;Hirudidae;Hirudinea
+927;Haemopis sanguisuga;923;abondance;NA;Hirudidae;Hirudinea
+928;Erpobdellidae;928;abondance;NA;Erpobdellidae;Hirudinea
+929;Erpobdella;928;abondance;NA;Erpobdellidae;Hirudinea
+930;Erpobdella octoculata;928;abondance;NA;Erpobdellidae;Hirudinea
+932;Trocheta;928;abondance;NA;Erpobdellidae;Hirudinea
+933;Oligochaeta;933;abondance;NA;NA;Oligochaeta
+934;Lumbriculidae;933;abondance;NA;Lumbriculidae;Oligochaeta
+935;Lumbriculus;933;abondance;NA;Lumbriculidae;Oligochaeta
+936;Stylodrilus;933;abondance;NA;Lumbriculidae;Oligochaeta
+937;Lumbricidae;933;abondance;NA;Lumbricidae;Oligochaeta
+938;Eiseniella;933;abondance;NA;Lumbricidae;Oligochaeta
+939;Eiseniella tetraedra;933;abondance;NA;Lumbricidae;Oligochaeta
+940;Enchytraeidae;933;abondance;NA;Enchytraeidae;Oligochaeta
+942;Haplotaxidae;933;abondance;NA;Haplotaxidae;Oligochaeta
+943;Haplotaxis;933;abondance;NA;Haplotaxidae;Oligochaeta
+944;Tubificidae;933;abondance;NA;Tubificidae;Oligochaeta
+945;Tubifex;933;abondance;NA;Tubificidae;Oligochaeta
+949;Limnodrilus;933;abondance;NA;Tubificidae;Oligochaeta
+951;Branchiura;933;abondance;NA;Tubificidae;Branchioures
+952;Branchiura sowerbyi;933;abondance;NA;Tubificidae;Oligochaeta
+954;Naididae;933;abondance;NA;Naididae;Oligochaeta
+955;Chaetogaster;933;abondance;NA;Naididae;Oligochaeta
+958;Nais;933;abondance;NA;Naididae;Oligochaeta
+959;Stylaria;933;abondance;NA;Naididae;Oligochaeta
+960;Stylaria lacustris;933;abondance;NA;Naididae;Oligochaeta
+961;Pristina;933;abondance;NA;Naididae;Oligochaeta
+966;Neritidae;967;abondance;NA;Neritidae;Gastropoda
+967;Theodoxus;967;abondance;NA;Neritidae;Gastropoda
+968;Theodoxus fluviatilis;967;abondance;NA;Neritidae;Gastropoda
+969;Viviparidae;970;abondance;NA;Viviparidae;Gastropoda
+970;Viviparus;970;abondance;NA;Viviparidae;Gastropoda
+971;Valvatidae;972;abondance;NA;Valvatidae;Gastropoda
+972;Valvata;972;abondance;NA;Valvatidae;Gastropoda
+973;Hydrobiidae;973;abondance;Famille;Hydrobiidae;Gastropoda
+974;Hydrobia;974;abondance;NA;Hydrobiidae;Gastropoda
+978;Potamopyrgus;978;abondance;NA;Hydrobiidae;Gastropoda
+979;Potamopyrgus antipodarum;978;abondance;NA;Hydrobiidae;Gastropoda
+982;Belgrandia;982;abondance;NA;Hydrobiidae;Gastropoda
+985;Emmericiidae;986;abondance;NA;Emmericiidae;Gastropoda
+986;Emmericia;986;abondance;NA;Emmericiidae;Gastropoda
+989;Lithoglyphus;989;abondance;NA;Hydrobiidae;Gastropoda
+990;Lithoglyphus naticoides;989;abondance;NA;Hydrobiidae;Gastropoda
+992;Bythinella;992;abondance;NA;Hydrobiidae;Gastropoda
+993;Bithyniidae;994;abondance;NA;Bithyniidae;Gastropoda
+994;Bithynia;994;abondance;NA;Bithyniidae;Gastropoda
+995;Physidae;995;abondance;Famille;Physidae;Gastropoda
+996;Aplexa;996;abondance;NA;Physidae;Gastropoda
+997;Physa lato-sensu;30103;abondance;NA;Physidae;Gastropoda
+998;Lymnaeidae;998;abondance;Famille;Lymnaeidae;Gastropoda
+999;Lymnaea;999;abondance;NA;Lymnaeidae;Gastropoda
+1000;Lymnaea stagnalis;999;abondance;NA;Lymnaeidae;Gastropoda
+1001;Galba;1001;abondance;NA;Lymnaeidae;Gastropoda
+1002;Galba truncatula;1001;abondance;NA;Lymnaeidae;Gastropoda
+1003;Galba palustris;1001;abondance;NA;Lymnaeidae;Gastropoda
+1004;Radix;1004;abondance;NA;Lymnaeidae;Gastropoda
+1005;Radix auricularia;1004;abondance;NA;Lymnaeidae;Gastropoda
+1006;Radix peregra;1004;abondance;NA;Lymnaeidae;Gastropoda
+1007;Myxas;1007;abondance;NA;Lymnaeidae;Gastropoda
+1008;Myxas glutinosa;1007;abondance;NA;Lymnaeidae;Gastropoda
+1009;Planorbidae;1009;abondance;NA;Planorbidae;Gastropoda
+1010;Anisus;1009;abondance;NA;Planorbidae;Gastropoda
+1011;Bathyomphalus;1009;abondance;NA;Planorbidae;Gastropoda
+1012;Bathyomphalus contortus;1009;abondance;NA;Planorbidae;Gastropoda
+1015;Gyraulus;1009;abondance;NA;Planorbidae;Gastropoda
+1016;Armiger;1009;abondance;NA;Planorbidae;Gastropoda
+1017;Armiger crista;1009;abondance;NA;Planorbidae;Gastropoda
+1018;Segmentina;1009;abondance;NA;Planorbidae;Gastropoda
+1019;Segmentina nitida;1009;abondance;NA;Planorbidae;Gastropoda
+1020;Hippeutis;1009;abondance;NA;Planorbidae;Gastropoda
+1021;Hippeutis complanatus;1009;abondance;NA;Planorbidae;Gastropoda
+1022;Planorbarius;1009;abondance;NA;Planorbidae;Gastropoda
+1023;Planorbarius corneus;1009;abondance;NA;Planorbidae;Gastropoda
+1024;Planorbis;1009;abondance;NA;Planorbidae;Gastropoda
+1025;Menetus;1009;abondance;NA;Planorbidae;Gastropoda
+1026;Menetus dilatatus;1009;abondance;NA;Planorbidae;Gastropoda
+1027;Ancylidae;1028;abondance;NA;Ancylidae;Gastropoda
+1028;Ancylus;1028;abondance;NA;Ancylidae;Gastropoda
+1029;Ancylus fluviatilis;1028;abondance;NA;Ancylidae;Gastropoda
+1030;Ferrissia;1030;abondance;NA;Ferrissiidae;Gastropoda
+1032;Acroloxidae;1033;abondance;NA;Acroloxidae;Gastropoda
+1033;Acroloxus;1033;abondance;NA;Acroloxidae;Gastropoda
+1034;Acroloxus lacustris;1033;abondance;NA;Acroloxidae;Gastropoda
+1035;Margaritiferidae;1036;abondance;NA;Margaritiferidae;Bivalvia
+1036;Margaritifera;1036;abondance;NA;Margaritiferidae;Bivalvia
+1037;Unionidae;1037;abondance;Famille;Unionidae;Bivalvia
+1038;Anodonta;1038;abondance;NA;Unionidae;Bivalvia
+1039;Potomida;1039;abondance;NA;Unionidae;Bivalvia
+1040;Pseudanodonta;1040;abondance;NA;Unionidae;Bivalvia
+1041;Unio;1041;abondance;NA;Unionidae;Bivalvia
+1042;Sphaeriidae;1042;abondance;Famille;Sphaeriidae;Bivalvia
+1043;Pisidium;1043;abondance;NA;Sphaeriidae;Bivalvia
+1044;Sphaerium;1044;abondance;NA;Sphaeriidae;Bivalvia
+1045;Dreissenidae;1045;abondance;Famille;Dreissenidae;Bivalvia
+1046;Dreissena;1046;abondance;NA;Dreissenidae;Bivalvia
+1047;Dreissena polymorpha;1046;abondance;NA;Dreissenidae;Bivalvia
+1048;Congeria;1048;abondance;NA;Dreissenidae;Bivalvia
+1050;Corbiculidae;1051;abondance;NA;Corbiculidae;Bivalvia
+1051;Corbicula;1051;abondance;NA;Corbiculidae;Bivalvia
+1052;Nemertea;3110;presence;NA;NA;Nemertea
+1053;Tetrastemmatidae;3110;presence;NA;Tetrastemmatidae;Nemertea
+1055;Dugesiidae;1055;abondance;NA;Dugesiidae;Tricladida
+1056;Dugesia;1055;abondance;NA;Dugesiidae;Tricladida
+1057;Dugesia gonocephala;1055;abondance;NA;Dugesiidae;Tricladida
+1058;Dugesia lugubris;1055;abondance;NA;Dugesiidae;Tricladida
+1059;Dugesia polychroa;1055;abondance;NA;Dugesiidae;Tricladida
+1060;Dugesia tigrina;1055;abondance;NA;Dugesiidae;Tricladida
+1061;Planariidae;1061;abondance;NA;Planariidae;Tricladida
+1062;Planaria;1061;abondance;NA;Planariidae;Tricladida
+1064;Polycelis;1061;abondance;NA;Planariidae;Tricladida
+1065;Polycelis felina;1061;abondance;NA;Planariidae;Tricladida
+1066;Polycelis nigra;1061;abondance;NA;Planariidae;Tricladida
+1067;Polycelis tenuis;1061;abondance;NA;Planariidae;Tricladida
+1068;Crenobia;1061;abondance;NA;Planariidae;Tricladida
+1069;Crenobia alpina;1061;abondance;NA;Planariidae;Tricladida
+1070;Phagocata;1061;abondance;NA;Planariidae;Tricladida
+1071;Dendrocoelidae;1071;abondance;NA;Dendrocoelidae;Tricladida
+1072;Dendrocoelum;1071;abondance;NA;Dendrocoelidae;Tricladida
+1074;Dendrocoelum lacteum;1071;abondance;NA;Dendrocoelidae;Tricladida
+1075;Cnidaria;3168;presence;NA;NA;Hydrozoa
+1076;Hydridae;3168;presence;NA;Hydridae;Hydrozoa
+1077;Hydra;3168;presence;NA;Hydridae;Hydrozoa
+1079;Craspedacusta;3168;presence;NA;NA;Hydrozoa
+1081;Hymenoptera;1083;abondance;NA;Agriotypidae;Hymenoptera
+1083;Agriotypus;1083;abondance;NA;Agriotypidae;Hymenoptera
+1085;Gordiidae;3111;presence;NA;Gordiidae;Nematomorpha
+1086;Gordius;3111;presence;NA;Gordiidae;Nematomorpha
+1087;Bryozoa;1087;presence;NA;NA;Bryozoa
+1089;Nematoda;3111;presence;NA;NA;Nematomorpha
+1090;Porifera;3106;presence;NA;NA;Porifera
+2024;Cambaridae;2024;abondance;Famille;Cambaridae;Decapoda
+2027;Procambarus;2027;abondance;NA;Cambaridae;Decapoda
+2028;Procambarus clarkii;2027;abondance;NA;Cambaridae;Decapoda
+2258;Leuctra pseudocingulata;69;abondance;NA;Leuctridae;Plecoptera
+2265;Glossosoma bifidum;190;abondance;NA;Glossosomatidae;Trichoptera
+2266;Glossosoma boltoni;190;abondance;NA;Glossosomatidae;Trichoptera
+2268;Agapetus fuscipes;191;abondance;NA;Glossosomatidae;Trichoptera
+2270;Agapetus ochripes;191;abondance;NA;Glossosomatidae;Trichoptera
+2273;Synagapetus dubitans;192;abondance;NA;Glossosomatidae;Trichoptera
+2279;Ithytrichia lamellaris;198;abondance;NA;Hydroptilidae;Trichoptera
+2289;Agraylea multipunctata;201;abondance;NA;Hydroptilidae;Trichoptera
+2290;Agraylea sexmaculata;201;abondance;NA;Hydroptilidae;Trichoptera
+2292;Philopotamus ludificatus;209;abondance;NA;Philopotamidae;Trichoptera
+2293;Philopotamus montanus;209;abondance;NA;Philopotamidae;Trichoptera
+2295;Philopotamus variegatus;209;abondance;NA;Philopotamidae;Trichoptera
+2297;Wormaldia occipitalis;210;abondance;NA;Philopotamidae;Trichoptera
+2302;Hydropsyche fulvipes;212;abondance;NA;Hydropsychidae;Trichoptera
+2303;Hydropsyche instabilis;212;abondance;NA;Hydropsychidae;Trichoptera
+2307;Diplectrona;2307;abondance;NA;Hydropsychidae;Trichoptera
+2311;Cyrnus crenaticornis;224;abondance;NA;Polycentropodidae;Trichoptera
+2312;Plectrocnemia brevis;228;abondance;NA;Polycentropodidae;Trichoptera
+2327;Tinodes unicolor;245;abondance;NA;Psychomyiidae;Trichoptera
+2328;Tinodes waeneri;245;abondance;NA;Psychomyiidae;Trichoptera
+2332;Phryganea bipunctata;255;abondance;NA;Phryganeidae;Trichoptera
+2333;Phryganea grandis;255;abondance;NA;Phryganeidae;Trichoptera
+2334;Anabolia furcata;3163;abondance;NA;Limnephilidae;Trichoptera
+2335;Drusus;3120;abondance;NA;Limnephilidae;Trichoptera
+2336;Drusus annulatus;3120;abondance;NA;Limnephilidae;Trichoptera
+2338;Drusus discolor;3120;abondance;NA;Limnephilidae;Trichoptera
+2339;Allogamus;3163;abondance;NA;Limnephilidae;Trichoptera
+2343;Crunoecia irrorata;309;abondance;NA;Lepidostomatidae;Trichoptera
+2344;Athripsodes albifrons;311;abondance;NA;Leptoceridae;Trichoptera
+2345;Athripsodes aterrimus;311;abondance;NA;Leptoceridae;Trichoptera
+2346;Athripsodes bilineatus;311;abondance;NA;Leptoceridae;Trichoptera
+2347;Athripsodes cinereus;311;abondance;NA;Leptoceridae;Trichoptera
+2348;Athripsodes commutatus;311;abondance;NA;Leptoceridae;Trichoptera
+2351;Mystacides azurea;312;abondance;NA;Leptoceridae;Trichoptera
+2352;Mystacides longicornis;312;abondance;NA;Leptoceridae;Trichoptera
+2358;Ceraclea dissimilis;313;abondance;NA;Leptoceridae;Trichoptera
+2361;Triaenodes bicolor;314;abondance;NA;Leptoceridae;Trichoptera
+2363;Triaenodes ochreellus;314;abondance;NA;Leptoceridae;Trichoptera
+2364;Oecetis furva;317;abondance;NA;Leptoceridae;Trichoptera
+2365;Oecetis lacustris;317;abondance;NA;Leptoceridae;Trichoptera
+2366;Oecetis ochracea;317;abondance;NA;Leptoceridae;Trichoptera
+2367;Oecetis testacea;317;abondance;NA;Leptoceridae;Trichoptera
+2368;Setodes argentipunctellus;318;abondance;NA;Leptoceridae;Trichoptera
+2369;Setodes punctatus;318;abondance;NA;Leptoceridae;Trichoptera
+2371;Leptocerus interruptus;319;abondance;NA;Leptoceridae;Trichoptera
+2373;Adicella filicornis;320;abondance;NA;Leptoceridae;Trichoptera
+2374;Adicella reducta;320;abondance;NA;Leptoceridae;Trichoptera
+2378;Beraea pullata;328;abondance;NA;Beraeidae;Trichoptera
+2379;Beraeodes minutus;329;abondance;NA;Beraeidae;Trichoptera
+2383;Molanna angustata;345;abondance;NA;Molannidae;Trichoptera
+2384;Ametropus fragilis;362;abondance;NA;Ametropodidae;Ephemeroptera
+2391;Torleya;2391;abondance;NA;Ephemerellidae;Ephemeroptera
+2393;Hydroporinae;2393;abondance;NA;Dytiscidae;Coleoptera
+2394;Laccophilinae;2394;abondance;NA;Dytiscidae;Coleoptera
+2395;Colymbetinae;2395;abondance;NA;Dytiscidae;Coleoptera
+2396;Dytiscinae;2396;abondance;NA;Dytiscidae;Coleoptera
+2406;Haliplus confinis;518;abondance;NA;Haliplidae;Coleoptera
+2437;Guignotus pusillus geminus;2393;abondance;NA;Dytiscidae;Coleoptera
+2473;Porhydrus lineatus;2393;abondance;NA;Dytiscidae;Coleoptera
+2481;Laccornis oblongus;2393;abondance;NA;Dytiscidae;Coleoptera
+2497;Oreodytes septentrionalis;2393;abondance;NA;Dytiscidae;Coleoptera
+2501;Copelatus haemorrhoidalis;5195;abondance;NA;Dytiscidae;Coleoptera
+2502;Agabus bipustulatus;2395;abondance;NA;Dytiscidae;Coleoptera
+2510;Dytiscus marginalis;2396;abondance;NA;Dytiscidae;Coleoptera
+2515;Hydrobiinae;2517;abondance;NA;Hydrophilidae;Coleoptera
+2517;Hydrophilinae;2517;abondance;NA;Hydrophilidae;Coleoptera
+2518;Berosini;2517;abondance;NA;Hydrophilidae;Coleoptera
+2551;Stenelmis canaliculata;617;abondance;NA;Elmidae;Coleoptera
+2552;Elmis latreillei;618;abondance;NA;Elmidae;Coleoptera
+2553;Elmis maugetii;618;abondance;NA;Elmidae;Coleoptera
+2555;Elmis obscura;618;abondance;NA;Elmidae;Coleoptera
+2556;Esolus angustatus;619;abondance;NA;Elmidae;Coleoptera
+2558;Esolus parallelepipedus;619;abondance;NA;Elmidae;Coleoptera
+2561;Oulimnius rivularis;622;abondance;NA;Elmidae;Coleoptera
+2563;Oulimnius tuberculatus;622;abondance;NA;Elmidae;Coleoptera
+2566;Limnius perrisi;623;abondance;NA;Elmidae;Coleoptera
+2567;Limnius volckmari;623;abondance;NA;Elmidae;Coleoptera
+2572;Riolus cupreus;625;abondance;NA;Elmidae;Coleoptera
+2574;Riolus subviolaceus;625;abondance;NA;Elmidae;Coleoptera
+2595;Calopteryx haemorrhoidalis;650;abondance;NA;Calopterygidae;Odonata
+2598;Calopteryx splendens splendens;650;abondance;NA;Calopterygidae;Odonata
+2602;Sympecma fusca;654;abondance;NA;Lestidae;Odonata
+2608;Lestes viridis;655;abondance;NA;Lestidae;Odonata
+2611;Chalcolestes;2611;abondance;NA;Lestidae;Odonata
+2612;Chalcolestes viridis;2611;abondance;NA;Lestidae;Odonata
+2615;Platycnemis pennipes;657;abondance;NA;Platycnemididae;Odonata
+2616;Erythromma najas;658;abondance;NA;Coenagrionidae;Odonata
+2617;Erythromma viridulum;658;abondance;NA;Coenagrionidae;Odonata
+2620;Coenagrion caerulescens;658;abondance;NA;Coenagrionidae;Odonata
+2622;Coenagrion mercuriale;658;abondance;NA;Coenagrionidae;Odonata
+2624;Coenagrion puella;658;abondance;NA;Coenagrionidae;Odonata
+2626;Coenagrion scitulum;658;abondance;NA;Coenagrionidae;Odonata
+2627;Ischnura elegans;658;abondance;NA;Coenagrionidae;Odonata
+2630;Aeshna affinis;674;abondance;NA;Aeshnidae;Odonata
+2632;Aeshna cyanea;674;abondance;NA;Aeshnidae;Odonata
+2633;Aeshna grandis;674;abondance;NA;Aeshnidae;Odonata
+2639;Anax imperator;675;abondance;NA;Aeshnidae;Odonata
+2641;Gomphus flavipes;679;abondance;NA;Gomphidae;Odonata
+2642;Gomphus graslinii;679;abondance;NA;Gomphidae;Odonata
+2643;Gomphus pulchellus;679;abondance;NA;Gomphidae;Odonata
+2644;Gomphus simillimus;679;abondance;NA;Gomphidae;Odonata
+2645;Gomphus vulgatissimus;679;abondance;NA;Gomphidae;Odonata
+2646;Ophiogomphus cecilia;680;abondance;NA;Gomphidae;Odonata
+2647;Onychogomphus forcipatus forci;682;abondance;NA;Gomphidae;Odonata
+2649;Onychogomphus uncatus;682;abondance;NA;Gomphidae;Odonata
+2653;Somatochlora flavomaculata;693;abondance;NA;Corduliidae;Odonata
+2654;Somatochlora metallica;693;abondance;NA;Corduliidae;Odonata
+2655;Epitheca;2655;abondance;NA;Corduliidae;Odonata
+2656;Epitheca bimaculata;2655;abondance;NA;Corduliidae;Odonata
+2657;Cordulia;2657;abondance;NA;Corduliidae;Odonata
+2658;Cordulia aenea;2657;abondance;NA;Corduliidae;Odonata
+2659;Libellula depressa;697;abondance;NA;Libellulidae;Odonata
+2660;Libellula fulva;697;abondance;NA;Libellulidae;Odonata
+2662;Orthetrum albistylum;698;abondance;NA;Libellulidae;Odonata
+2664;Orthetrum brunneum;698;abondance;NA;Libellulidae;Odonata
+2665;Orthetrum cancellatum;698;abondance;NA;Libellulidae;Odonata
+2666;Orthetrum coerulescens;698;abondance;NA;Libellulidae;Odonata
+2671;Sympetrum meridionale;699;abondance;NA;Libellulidae;Odonata
+2673;Sympetrum sanguineum;699;abondance;NA;Libellulidae;Odonata
+2674;Sympetrum striolatum;699;abondance;NA;Libellulidae;Odonata
+2675;Sympetrum vulgatum;699;abondance;NA;Libellulidae;Odonata
+2676;Crocothemis;2676;abondance;NA;Libellulidae;Odonata
+2678;Crocothemis erythraea;2676;abondance;NA;Libellulidae;Odonata
+2679;Leucorrhinia;2679;abondance;NA;Libellulidae;Odonata
+2682;Leucorrhinia dubia;2679;abondance;NA;Libellulidae;Odonata
+2695;Sigara hellensii;5196;abondance;NA;Corixidae;Hemiptera
+2714;Aphelocheirus aestivalis;721;abondance;NA;Aphelocheiridae;Hemiptera
+2715;Ilyocoris cimicoides;722;abondance;NA;Naucoridae;Hemiptera
+2716;Naucoris maculatus;722;abondance;NA;Naucoridae;Hemiptera
+2717;Nepa cinerea;725;abondance;NA;Nepidae;Hemiptera
+2719;Ranatra linearis;725;abondance;NA;Nepidae;Hemiptera
+2722;Notonecta maculata;728;abondance;NA;Notonectidae;Hemiptera
+2724;Notonecta viridis;728;abondance;NA;Notonectidae;Hemiptera
+2725;Nychia marshalli;728;abondance;NA;Notonectidae;Hemiptera
+2726;Plea leachi;733;abondance;NA;Pleidae;Hemiptera
+2731;Gerris najas;735;abondance;NA;Gerridae;Hemiptera
+2739;Hydrometra stagnorum;740;abondance;NA;Hydrometridae;Hemiptera
+2748;Dioptopsis vernus;747;abondance;NA;Blephariceridae;Diptera
+2757;Phalacrocera;755;abondance;NA;Cylindrotomidae;Diptera
+2758;Phalacrocera replicata;755;abondance;NA;Cylindrotomidae;Diptera
+2759;Sycorax;783;abondance;NA;Psychodidae;Diptera
+2771;Clogmia;783;abondance;NA;Psychodidae;Diptera
+2845;Kiefferulus;807;abondance;NA;Chironomidae;Diptera
+2858;Stenochironomus;807;abondance;NA;Chironomidae;Diptera
+2870;Corynoneurinae;807;abondance;NA;Chironomidae;Diptera
+2872;Bezzia;819;abondance;NA;Ceratopogonidae;Diptera
+2877;Culicoides;819;abondance;NA;Ceratopogonidae;Diptera
+2878;Dasyhelea;819;abondance;NA;Ceratopogonidae;Diptera
+2879;Forcipomyia;819;abondance;NA;Ceratopogonidae;Diptera
+2884;Chelifera;831;abondance;NA;Empididae;Diptera
+2885;Clinocera;831;abondance;NA;Empididae;Diptera
+2905;Heptatoma;837;abondance;NA;Tabanidae;Diptera
+2907;Tabanus;837;abondance;NA;Tabanidae;Diptera
+2909;Atherix marginata;838;abondance;NA;Athericidae;Diptera
+2910;Atrichops crassipes;838;abondance;NA;Athericidae;Diptera
+2919;Ephydra;844;abondance;NA;Ephydridae;Diptera
+2926;Hydrellia;844;abondance;NA;Ephydridae;Diptera
+2941;Acanthocnema;846;abondance;NA;Scatophagidae;Diptera
+2944;Lispe;847;abondance;NA;Anthomyidae;Diptera
+2947;Crambidae;2947;abondance;NA;Crambidae;Lepidoptera
+2948;Parapoynx;2947;abondance;NA;Crambidae;Lepidoptera
+2949;Parapoynx stratiotata;2947;abondance;NA;Crambidae;Lepidoptera
+2950;Nymphula stagnata;2947;abondance;NA;Crambidae;Lepidoptera
+2951;Nymphula;2947;abondance;NA;Crambidae;Lepidoptera
+2952;Elophila nymphaeata;2947;abondance;NA;Crambidae;Lepidoptera
+2954;Cataclysta;2947;abondance;NA;Crambidae;Lepidoptera
+2955;Cataclysta lemnata;2947;abondance;NA;Crambidae;Lepidoptera
+2956;Osmylus fulvicephalus;854;abondance;NA;Osmylidae;Neuroptera
+2960;Neurorthus fallax;858;abondance;NA;Neurorthidae;Neuroptera
+2968;Argulidae;29151;presence;NA;NA;Branchioures
+2969;Argulus;29151;presence;NA;NA;Branchioures
+2972;Ceraclea fulva;313;abondance;NA;Leptoceridae;Trichoptera
+2974;Batracobdella;908;abondance;NA;Glossiphoniidae;Hirudinea
+2975;Batracobdella paludosa;908;abondance;NA;Glossiphoniidae;Hirudinea
+2977;Dina;928;abondance;NA;Erpobdellidae;Hirudinea
+2978;Dina lineata;928;abondance;NA;Erpobdellidae;Hirudinea
+2980;Stylodrilus heringianus;933;abondance;NA;Lumbriculidae;Oligochaeta
+2984;Propappus;933;abondance;NA;Enchytraeidae;Oligochaeta
+2985;Propappus volki;933;abondance;NA;Enchytraeidae;Oligochaeta
+3001;Uncinais;933;abondance;NA;Naididae;Oligochaeta
+3002;Uncinais uncinata;933;abondance;NA;Naididae;Oligochaeta
+3003;Ripistes;933;abondance;NA;Naididae;Oligochaeta
+3005;Ophidonais;933;abondance;NA;Naididae;Oligochaeta
+3006;Ophidonais serpentina;933;abondance;NA;Naididae;Oligochaeta
+3007;Slavina;933;abondance;NA;Naididae;Oligochaeta
+3009;Dero;933;abondance;NA;Naididae;Oligochaeta
+3014;Viviparus viviparus;970;abondance;NA;Viviparidae;Gastropoda
+3015;Valvata cristata;972;abondance;NA;Valvatidae;Gastropoda
+3016;Valvata piscinalis;972;abondance;NA;Valvatidae;Gastropoda
+3026;Hauffenia minuta;973;abondance;NA;Hydrobiidae;Gastropoda
+3030;Bithynia tentaculata;994;abondance;NA;Bithyniidae;Gastropoda
+3031;Aplexa hypnorum;996;abondance;NA;Physidae;Gastropoda
+3032;Physa acuta;19280;abondance;NA;Physidae;Gastropoda
+3033;Physa fontinalis;30103;abondance;NA;Physidae;Gastropoda
+3034;Galba corvus;1001;abondance;NA;Lymnaeidae;Gastropoda
+3037;Anisus spirorbis;1009;abondance;NA;Planorbidae;Gastropoda
+3039;Gyraulus albus;1009;abondance;NA;Planorbidae;Gastropoda
+3041;Planorbis carinatus;1009;abondance;NA;Planorbidae;Gastropoda
+3042;Planorbis planorbis;1009;abondance;NA;Planorbidae;Gastropoda
+3044;Margaritifera auricularia;1036;abondance;NA;Margaritiferidae;Bivalvia
+3045;Margaritifera margaritifera;1036;abondance;NA;Margaritiferidae;Bivalvia
+3047;Potomida littoralis;1039;abondance;NA;Unionidae;Bivalvia
+3048;Pseudanodonta complanata;1040;abondance;NA;Unionidae;Bivalvia
+3051;Unio pictorum;1041;abondance;NA;Unionidae;Bivalvia
+3052;Unio tumidus;1041;abondance;NA;Unionidae;Bivalvia
+3055;Pisidium casertanum;1043;abondance;NA;Sphaeriidae;Bivalvia
+3064;Pisidium subtruncatum;1043;abondance;NA;Sphaeriidae;Bivalvia
+3065;Pisidium supirum;1043;abondance;NA;Sphaeriidae;Bivalvia
+3067;Pisidium moitessierianum;1043;abondance;NA;Sphaeriidae;Bivalvia
+3068;Pisidium tenuilineatum;1043;abondance;NA;Sphaeriidae;Bivalvia
+3069;Sphaerium corneum;1044;abondance;NA;Sphaeriidae;Bivalvia
+3072;Musculium;3072;abondance;NA;Sphaeriidae;Bivalvia
+3073;Musculium lacustre;3072;abondance;NA;Sphaeriidae;Bivalvia
+3079;Bdellocephala;1071;abondance;NA;Dendrocoelidae;Tricladida
+3080;Bdellocephala punctata;1071;abondance;NA;Dendrocoelidae;Tricladida
+3081;Clavidae;3168;presence;NA;Clavidae;Hydrozoa
+3082;Cordylophora;3168;presence;NA;Clavidae;Hydrozoa
+3083;Cordylophora caspia;3168;presence;NA;Clavidae;Hydrozoa
+3086;Agriotypus armatus;1083;abondance;NA;Agriotypidae;Hymenoptera
+3087;Gordius aquaticus;3111;presence;NA;Gordiidae;Nematomorpha
+3091;Paludicellidae;1087;presence;NA;Paludicellidae;Bryozoa
+3092;Paludicella;1087;presence;NA;Paludicellidae;Bryozoa
+3093;Paludicella articulata;1087;presence;NA;Paludicellidae;Bryozoa
+3094;Fredericellidae;1087;presence;NA;Fredericellidae;Bryozoa
+3095;Fredericella;1087;presence;NA;Fredericellidae;Bryozoa
+3096;Fredericella sultana;1087;presence;NA;Fredericellidae;Bryozoa
+3097;Plumatellidae;1087;presence;NA;Plumatellidae;Bryozoa
+3098;Plumatella;1087;presence;NA;Plumatellidae;Bryozoa
+3100;Hyalinella;1087;presence;NA;Plumatellidae;Bryozoa
+3102;Cristatellidae;1087;presence;NA;Cristatellidae;Bryozoa
+3103;Cristatella;1087;presence;NA;Cristatellidae;Bryozoa
+3104;Cristatella mucedo;1087;presence;NA;Cristatellidae;Bryozoa
+3105;Lophopodidae;1087;presence;NA;Lophopodidae;Bryozoa
+3106;Spongillidae;3106;presence;NA;Spongillidae;Bryozoa
+3107;Spongilla;3106;presence;NA;Spongillidae;Bryozoa
+3108;Spongilla lacustris;3106;presence;NA;Spongillidae;Bryozoa
+3109;Ephydatia;3106;presence;NA;Spongillidae;Bryozoa
+3110;Prostoma;3110;presence;NA;Tetrastemmatidae;Nemertea
+3111;Nemathelmintha;3111;presence;NA;NA;Nematomorpha
+3115;Gammarus tigrinus;892;abondance;NA;Gammaridae;Amphipoda
+3116;Eulalia;824;abondance;NA;Stratiomyidae;Diptera
+3120;Drusinae;3120;abondance;NA;Limnephilidae;Trichoptera
+3121;Dicosmoecinae;3121;abondance;NA;Limnephilidae;Trichoptera
+3122;Dendrobaena subrubicunda;933;abondance;NA;Lumbricidae;Oligochaeta
+3123;Dendrobaena;933;abondance;NA;Lumbricidae;Oligochaeta
+3126;Conchostraca;3126;presence;NA;NA;Conchostraca
+3128;Chironomus thumni;807;abondance;NA;Chironomidae;Diptera
+3130;Bythiospeum;3130;abondance;NA;Hydrobiidae;Gastropoda
+3131;Branchioures;29151;presence;NA;NA;Branchioures
+3132;Branchiobdellidae;5191;abondance;NA;Branchiobdellidae;Branchiobdellida
+3133;Atherix ibis;838;abondance;NA;Athericidae;Diptera
+3134;Atalantinae;831;abondance;NA;Empididae;Diptera
+3136;Apataniinae;3136;abondance;NA;Limnephilidae;Trichoptera
+3137;Anostraces;3137;presence;NA;NA;Anostraca
+3138;Anisus vorticulus;1009;abondance;NA;Planorbidae;Gastropoda
+3139;Anisus vortex;1009;abondance;NA;Planorbidae;Gastropoda
+3142;Trocheta bykowskii;928;abondance;NA;Erpobdellidae;Hirudinea
+3143;Theromyzon tessulatum;908;abondance;NA;Glossiphoniidae;Hirudinea
+3144;Theromyzon;908;abondance;NA;Glossiphoniidae;Hirudinea
+3145;Stictotarsus duodecimpustulatus;2393;abondance;NA;Dytiscidae;Coleoptera
+3146;Stenophylacini-chaetopterygini;3163;abondance;NA;Limnephilidae;Trichoptera
+3147;Somatochlora sahlbergi;693;abondance;NA;Corduliidae;Odonata
+3149;Psychoda;783;abondance;NA;Psychodidae;Diptera
+3150;Physa heterostropha;30103;abondance;NA;Physidae;Gastropoda
+3151;Phagocata vitta;1061;abondance;NA;Planariidae;Tricladida
+3154;Onychogomphus forcipatus;682;abondance;NA;Gomphidae;Odonata
+3156;Notostraca;3156;presence;NA;NA;Notostraca
+3157;Nehalennia speciosa;658;abondance;NA;Coenagrionidae;Odonata
+3158;Nehalennia;658;abondance;NA;Coenagrionidae;Odonata
+3159;Mermithoidea;3111;presence;NA;Mermithidae;Nematoda
+3160;Marstoniopsis;3160;abondance;NA;Hydrobiidae;Gastropoda
+3161;Limnephilus flavicornis;3163;abondance;NA;Limnephilidae;Trichoptera
+3162;Limnephilini;3163;abondance;NA;Limnephilidae;Trichoptera
+3163;Limnephilinae;3163;abondance;NA;Limnephilidae;Trichoptera
+3164;Lathelmis;623;abondance;NA;Elmidae;Coleoptera
+3166;Hydrozoa;3168;presence;NA;NA;Hydrozoa
+3167;Hydrides;3168;presence;NA;NA;Hydrozoa
+3168;Hydrozoa;3168;presence;NA;NA;Hydrozoa
+3171;Adelphomyia;757;abondance;NA;Limoniidae;Diptera
+3172;Annitella;3163;abondance;NA;Limnephilidae;Trichoptera
+3173;Asynarchus;3163;abondance;NA;Limnephilidae;Trichoptera
+3175;Brachythemis;3175;abondance;NA;Libellulidae;Odonata
+3176;Brachythemis leucosticta;3175;abondance;NA;Libellulidae;Odonata
+3177;Chaetopterygopsis;3163;abondance;NA;Limnephilidae;Trichoptera
+3178;Chaetopteryx;3163;abondance;NA;Limnephilidae;Trichoptera
+3179;Cordulegaster princeps;687;abondance;NA;Cordulegasteridae;Odonata
+3180;Ecdyonurus pazsiczkyi;421;abondance;NA;Heptageniidae;Ephemeroptera
+3181;Electrogena;3181;abondance;NA;Heptageniidae;Ephemeroptera
+3183;Geranomyia;757;abondance;NA;Limoniidae;Diptera
+3184;Glyphotaelius;3163;abondance;NA;Limnephilidae;Trichoptera
+3186;Halesus;3163;abondance;NA;Limnephilidae;Trichoptera
+3189;Hermione;824;abondance;NA;Stratiomyidae;Diptera
+3190;Hydatophylax;3163;abondance;NA;Limnephilidae;Trichoptera
+3191;Hydropsyche borealis;212;abondance;NA;Hydropsychidae;Trichoptera
+3192;Meladema coriacea;2395;abondance;NA;Dytiscidae;Coleoptera
+3193;Micropterna;3163;abondance;NA;Limnephilidae;Trichoptera
+3194;Nemotaulius;3163;abondance;NA;Limnephilidae;Trichoptera
+3195;Phacopteryx;3163;abondance;NA;Limnephilidae;Trichoptera
+3197;Potamophylax;3163;abondance;NA;Limnephilidae;Trichoptera
+3198;Raptobaetopus;3198;abondance;NA;Baetidae;Ephemeroptera
+3199;Raptobaetopus tenellus;3198;abondance;NA;Baetidae;Ephemeroptera
+3201;Rhithrogena picteti;404;abondance;NA;Heptageniidae;Ephemeroptera
+3202;Hemerodromiinae;831;abondance;NA;Empididae;Diptera
+3203;Rhyacophila dorsalis;183;abondance;NA;Rhyacophilidae;Trichoptera
+3204;Rhyacophila obliterata;183;abondance;NA;Rhyacophilidae;Trichoptera
+3205;Stenophylax;3163;abondance;NA;Limnephilidae;Trichoptera
+3207;Pseudocentroptilum;3207;abondance;NA;Baetidae;Ephemeroptera
+3209;Donaciinae;642;abondance;NA;Chrysomelidae;Coleoptera
+3211;Corophiidae;3212;abondance;NA;Corophiidae;Amphipoda
+3212;Corophium;3212;abondance;NA;Corophiidae;Amphipoda
+3213;Corophium curvispinum;3212;abondance;NA;Corophiidae;Amphipoda
+3214;Halesus digitatus;3163;abondance;NA;Limnephilidae;Trichoptera
+3216;Rhyacophila tristis;183;abondance;NA;Rhyacophilidae;Trichoptera
+3297;Potamon ibericum;875;abondance;NA;Potamonidae;Decapoda
+3329;Gnathobdelliformes;923;abondance;NA;NA;Hirudinea
+3330;Pharyngobdelliformes;928;abondance;NA;NA;Hirudinea
+3337;Triopsidae;3156;presence;NA;Triopsidae;Notostraca
+4076;Polychaeta;4226;abondance;NA;NA;Polychaeta
+4118;Culicinae;796;abondance;NA;Culicidae;Diptera
+4201;Anophelinae;796;abondance;NA;Culicidae;Diptera
+4202;Dikerogammarus;4202;abondance;NA;Pontogammaridae;Amphipoda
+4210;Hemimysis anomala;4334;abondance;NA;Mysidae;Decapoda
+4218;Corbicula fluminea;1051;abondance;NA;Corbiculidae;Bivalvia
+4224;Prostoma graecense;3110;presence;NA;Tetrastemmatidae;Nemertea
+4225;Ampharetidae;4226;abondance;NA;Ampharetidae;Polychaeta
+4226;Hypania;4226;abondance;NA;Ampharetidae;Polychaeta
+4228;Hypania invalida;4226;abondance;NA;Ampharetidae;Polychaeta
+4229;Rhithrogena beskidensis;404;abondance;NA;Heptageniidae;Ephemeroptera
+4324;Mysidae;4324;abondance;Famille;Mysidae;Decapoda
+4334;Hemimysis;4334;abondance;NA;Mysidae;Decapoda
+4347;Neomysis;4324;abondance;NA;Mysidae;Decapoda
+4349;Paramysis;4349;abondance;NA;Mysidae;Decapoda
+5080;Oecetis notata;317;abondance;NA;Leptoceridae;Trichoptera
+5081;Allogamus ligonifer;3163;abondance;NA;Limnephilidae;Trichoptera
+5082;Anomalopterygella;3120;abondance;NA;Limnephilidae;Trichoptera
+5083;Anomalopterygella chauviniana;3120;abondance;NA;Limnephilidae;Trichoptera
+5084;Chaetopteryx maclachlani;3163;abondance;NA;Limnephilidae;Trichoptera
+5085;Chaetopteryx villosa/fusca;3163;abondance;NA;Limnephilidae;Trichoptera
+5086;Halesus rubricollis;3163;abondance;NA;Limnephilidae;Trichoptera
+5087;Micropterna lateralis/sequax;3163;abondance;NA;Limnephilidae;Trichoptera
+5088;Electrogena lateralis;3181;abondance;NA;Heptageniidae;Ephemeroptera
+5089;Chaetopteryx villosa;3163;abondance;NA;Limnephilidae;Trichoptera
+5091;Micropterna lateralis;3163;abondance;NA;Limnephilidae;Trichoptera
+5092;Micropterna sequax;3163;abondance;NA;Limnephilidae;Trichoptera
+5096;Janiridae;5097;abondance;NA;Janiridae;Isopoda
+5097;Jaera;5097;abondance;NA;Janiridae;Isopoda
+5099;Jaera istri;5097;abondance;NA;Janiridae;Isopoda
+5110;Ameletidae;5110;abondance;Famille;Ameletidae;Ephemeroptera
+5111;Neoephemeridae;5112;abondance;NA;Neoephemeridae;Ephemeroptera
+5112;Neoephemera;5112;abondance;NA;Neoephemeridae;Ephemeroptera
+5113;Neoephemera maxima;5112;abondance;NA;Neoephemeridae;Ephemeroptera
+5114;Agriotypidae;1083;abondance;NA;Agriotypidae;Hymenoptera
+5115;Crangonyctidae;5116;abondance;NA;Crangonyctidae;Amphipoda
+5116;Crangonyx;5116;abondance;NA;Crangonyctidae;Amphipoda
+5117;Crangonyx pseudogracilis;5116;abondance;NA;Crangonyctidae;Amphipoda
+5118;Niphargidae;902;abondance;NA;Niphargidae;Amphipoda
+5119;Talitridae;5120;abondance;NA;Talitridae;Amphipoda
+5120;Orchestia;5120;abondance;NA;Talitridae;Amphipoda
+5121;Orchestia cavimana;5120;abondance;NA;Talitridae;Amphipoda
+5122;Ferrissiidae;1030;abondance;NA;Ferrissidae;Gastropoda
+5124;Stagnicola;5124;abondance;NA;Lymnaeidae;Gastropoda
+5127;Acentria;2947;abondance;NA;Crambidae;Lepidoptera
+5128;Acentria ephemerella;2947;abondance;NA;Crambidae;Lepidoptera
+5129;Elophila;2947;abondance;NA;Crambidae;Lepidoptera
+5137;Pseudoneureclipsis;5137;abondance;NA;Dipseudopsidae;Trichoptera
+5138;Catagapetus;5138;abondance;NA;Glossosomatidae;Trichoptera
+5139;Stactobiella;5139;abondance;NA;Hydroptilidae;Trichoptera
+5140;Ylodes;5140;abondance;NA;Leptoceridae;Trichoptera
+5142;Ecclisopteryx;3120;abondance;NA;Limnephilidae;Trichoptera
+5144;Melampophylax;3163;abondance;NA;Limnephilidae;Trichoptera
+5146;Mesophylax;3163;abondance;NA;Limnephilidae;Trichoptera
+5147;Paduniella;5147;abondance;NA;Psychomyiidae;Trichoptera
+5148;Oecismus;5148;abondance;NA;Sericostomatidae;Trichoptera
+5149;Schizopelex;5149;abondance;NA;Sericostomatidae;Trichoptera
+5151;Acentrella;5151;abondance;NA;Baetidae;Ephemeroptera
+5152;Serratella;450;abondance;NA;Ephemerellidae;Ephemeroptera
+5162;Scleroprocta;757;abondance;NA;Limoniidae;Diptera
+5163;Anaciaeschna;5163;abondance;NA;Aeshnidae;Odonata
+5164;Diplacodes;5164;abondance;NA;Libellulidae;Odonata
+5165;Macromiidae;694;abondance;NA;Macromiidae;Odonata
+5169;Lepidurus;3156;presence;NA;Triopsidae;Notostraca
+5170;Triops;3156;presence;NA;Triopsidae;Notostraca
+5187;Pectinatellidae;1087;presence;NA;Pectinatellidae;Bryozoa
+5188;Pectinatella;1087;presence;NA;Pectinatellidae;Bryozoa
+5189;Gordiaca;3111;presence;NA;NA;Nematomorpha
+5190;Boreobdella;908;abondance;NA;Glossiphoniidae;Hirudinea
+5191;Branchiobdella;5191;abondance;NA;Branchiobdellidae;Branchiobdellida
+5194;Sphaeridiinae;5194;abondance;NA;Hydrophilidae;Coleoptera
+5195;Copelatinae;5195;abondance;NA;Dytiscidae;Coleoptera
+5196;Corixinae;5196;abondance;NA;Corixidae;Hemiptera
+5218;Agapetus-synagapetus;189;abondance;NA;Glossosomatidae;Trichoptera
+5219;Silo-lithax;286;abondance;NA;Goeridae;Trichoptera
+5220;Hydropsyche incognita;212;abondance;NA;Hydropsychidae;Trichoptera
+5221;Pseudoneureclipsis lusitanicus;5137;abondance;NA;Dipseudopsidae;Trichoptera
+5222;Stactobiella risi;5139;abondance;NA;Hydroptilidae;Trichoptera
+5224;Hydatophylax infumatus;3163;abondance;NA;Limnephilidae;Trichoptera
+5226;Phacopteryx brevipennis;3163;abondance;NA;Limnephilidae;Trichoptera
+5227;Nemotaulius punctatolineatus;3163;abondance;NA;Limnephilidae;Trichoptera
+5228;Glyphotaelius pellucidus;3163;abondance;NA;Limnephilidae;Trichoptera
+5229;Dikerogammarus villosus;4202;abondance;NA;Pontogammaridae;Amphipoda
+5230;Tubificidae immatures sans soies capillaires;933;abondance;NA;Tubificidae;Oligochaeta
+5231;Tubificinae avec soies capillaires;933;abondance;NA;Tubificidae;Oligochaeta
+5232;Pseudoneureclipsinae;5137;abondance;NA;Dipseudopsidae;Trichoptera
+5235;Lepidurus apus;3156;presence;NA;Triopsidae;Notostraca
+5236;Triops cancriformis;3156;presence;NA;Triopsidae;Notostraca
+5237;Rhyacophila stricto-sensu;183;abondance;NA;Rhyacophilidae;Trichoptera
+5241;Pectinatella magnifica;1087;presence;NA;Pectinatellidae;Bryozoa
+5242;Glossosoma intermedium;190;abondance;NA;Glossosomatidae;Trichoptera
+5243;Glossosoma conformis;190;abondance;NA;Glossosomatidae;Trichoptera
+5247;Cordulegaster boltoni boltoni;687;abondance;NA;Cordulegasteridae;Odonata
+9773;Ecclisopteryx dalecarlica;3120;abondance;NA;Limnephilidae;Trichoptera
+9778;Diplectrona felix;2307;abondance;NA;Hydropsychidae;Trichoptera
+9780;Omphiscola;9780;abondance;NA;Lymnaeidae;Gastropoda
+9781;Omphiscola glabra;9780;abondance;NA;Lymnaeidae;Gastropoda
+9782;Rhyacophila fasciata;183;abondance;NA;Rhyacophilidae;Trichoptera
+9784;Forcypomyiinae;819;abondance;NA;Ceratopogonidae;Diptera
+9786;Leptocerus lusitanicus;319;abondance;NA;Leptoceridae;Trichoptera
+9791;Anodonta anatina;1038;abondance;NA;Unionidae;Bivalvia
+9793;Polycheta;4226;abondance;NA;NA;Polychaeta
+9794;Baetis lato sensu;364;abondance;NA;Baetidae;Ephemeroptera
+9812;Agapetinae;189;abondance;NA;Glossosomatidae;Trichoptera
+9813;Clinocerinae;831;abondance;NA;Empididae;Diptera
+9828;Thiaridae;10226;abondance;NA;Thiaridae;Gastropoda
+9832;Hydrophilini;2517;abondance;NA;Hydrophilidae;Coleoptera
+10226;Melanoides;10226;abondance;NA;Thiaridae;Gastropoda
+10252;Melanoides tuberculata;10226;abondance;NA;Thiaridae;Gastropoda
+19280;Physella;19280;abondance;NA;Physidae;Gastropoda
+19290;Ferrissia clessiniana;1030;abondance;NA;Ferrissiidae;Gastropoda
+19291;Physella acuta;19280;abondance;NA;Physidae;Gastropoda
+19295;Stagnicola fuscus;5124;abondance;NA;Lymnaeidae;Gastropoda
+19298;Radix balthica;1004;abondance;NA;Lymnaeidae;Gastropoda
+19301;Haplotaxis gordioides;933;abondance;NA;Haplotaxidae;Oligochaeta
+20293;Groupe Amphinemura sulcicollis+triangularis;21;abondance;NA;Nemouridae;Plecoptera
+20333;Electrogena quadrilineata;3181;abondance;NA;Heptageniidae;Ephemeroptera
+20344;Boreobdella verrucata;908;abondance;NA;Glossiphoniidae;Hirudinea
+20347;Rhyacophila aurata;183;abondance;NA;Rhyacophilidae;Trichoptera
+20358;Hexatomini;757;abondance;NA;Limoniidae;Diptera
+20361;Eriopterini;757;abondance;NA;Limoniidae;Diptera
+20384;Hydroporini;2393;abondance;NA;Dytiscidae;Coleoptera
+20387;Hydrovatini;2393;abondance;NA;Dytiscidae;Coleoptera
+20390;Libellulinae;696;abondance;NA;Libellulidae;Odonata
+20393;Limoniini;757;abondance;NA;Limoniidae;Diptera
+20396;Micronectinae;719;abondance;NA;Corixidae;Hemiptera
+20400;Myxophaga;629;abondance;NA;NA;Coleoptera
+20455;Forcipomyinae;819;abondance;NA;Ceratopogonidae;Diptera
+20536;Oecismus monedula;5148;abondance;NA;Sericostomatidae;Trichoptera
+20537;Pediciini;757;abondance;NA;Limoniidae;Diptera
+20544;Schizopelex furcifera;5149;abondance;NA;Sericostomatidae;Trichoptera
+20557;Paduniella vandeli;5147;abondance;NA;Psychomyiidae;Trichoptera
+20559;Prosimuliinae;801;abondance;NA;Simuliidae;Diptera
+20560;Simuliinae;801;abondance;NA;Simuliidae;Diptera
+20572;Anaciaeschna isosceles;5163;abondance;NA;Aeshnidae;Odonata
+20573;Bidessini;2393;abondance;NA;Dytiscidae;Coleoptera
+20575;Catagapetus nigrans;5138;abondance;NA;Glossosomatidae;Trichoptera
+20576;Colymbetini;2395;abondance;NA;Dytiscidae;Coleoptera
+20578;Cymatiinae;718;abondance;NA;Corixidae;Hemiptera
+20579;Diplacodes lefebvrii;5164;abondance;NA;Libellulidae;Odonata
+20580;Dytiscini;2396;abondance;NA;Dytiscidae;Coleoptera
+20620;Urnatella;1087;presence;NA;NA;Bryozoa
+20678;Arthropleidae;20680;abondance;NA;Arthropleidae;Ephemeroptera
+20680;Arthroplea;20680;abondance;NA;Arthropleidae;Ephemeroptera
+20712;Hydaticini;2396;abondance;NA;Dytiscidae;Coleoptera
+20718;Muscoidea;847;abondance;NA;Anthomyidae;Diptera
+20731;Nebrioporus;2393;abondance;NA;Dytiscidae;Coleoptera
+20756;Rhyacophila pubescens;183;abondance;NA;Rhyacophilidae;Trichoptera
+21527;Epeorus assimilis;400;abondance;NA;Heptageniidae;Ephemeroptera
+21530;Dendrocoelum romanodanubiale;1071;abondance;NA;Dendrocoelidae;Tricladida
+21589;Anactini;669;abondance;NA;Aeshnidae;Odonata
+21600;Anisopinae;728;abondance;NA;Notonectidae;Hemiptera
+21802;Coenagrioninae;658;abondance;NA;Coenagrionidae;Odonata
+22174;Ischnurinae;658;abondance;NA;Coenagrionidae;Odonata
+22208;Lestinae;653;abondance;NA;Lestidae;Odonata
+22619;Polymitarcyidae;496;abondance;NA;Polymitarcyidae;Ephemeroptera
+22676;Ranatrinae;725;abondance;NA;Nepidae;Hemiptera
+23060;Hydroptilini;193;abondance;NA;Hydroptilidae;Trichoptera
+23066;Chimarrinae;207;abondance;NA;Philopotamidae;Trichoptera
+23074;Polycentropodinae;223;abondance;NA;Polycentropodidae;Trichoptera
+23078;Oecetini;317;abondance;NA;Leptoceridae;Trichoptera
+23112;Gerrini;735;abondance;NA;Gerridae;Hemiptera
+23115;Mesoveliinae;742;abondance;NA;Mesoveliidae;Hemiptera
+23117;Microveliini;743;abondance;NA;Veliidae;Hemiptera
+23122;Pyralidae;2947;abondance;NA;Crambidae;Lepidoptera
+23139;Copelatini;5195;abondance;NA;Dytiscidae;Coleoptera
+23202;Limnomysis;23202;abondance;NA;Mysidae;Decapoda
+23203;Eubrychius;647;abondance;NA;Curculionidae;Coleoptera
+23204;Bagous;647;abondance;NA;Curculionidae;Coleoptera
+23208;Pontogammaridae;4202;abondance;NA;Pontogammaridae;Amphipoda
+23213;Limnomysis benedeni;23202;abondance;NA;Mysidae;Decapoda
+23417;Physa;30103;abondance;NA;Physidae;Gastropoda
+23611;Potamophylax nigricornis;3163;abondance;NA;Limnephilidae;Trichoptera
+23612;Electrogena ujhelhyii;3181;abondance;NA;Heptageniidae;Ephemeroptera
+24006;Dytiscus dimidiatus;2396;abondance;NA;Dytiscidae;Coleoptera
+24007;Triaenodes/Ylodes;310;abondance;NA;Leptoceridae;Trichoptera
+24008;Halesus radiatus;3163;abondance;NA;Limnephilidae;Trichoptera
+24009;Potamophylax luctuosus;3163;abondance;NA;Limnephilidae;Trichoptera
+24226;Mysis;24226;abondance;NA;Mysidae;Decapoda
+24946;Micropterna nycterobia;3163;abondance;NA;Limnephilidae;Trichoptera
+25058;Potamophylax rotundipennis;3163;abondance;NA;Limnephilidae;Trichoptera
+25677;Serratella mesoleuca;450;abondance;NA;Ephemerellidae;Ephemeroptera
+29151;Branchiura;29151;presence;NA;NA;Branchioures
+29153;Procloeon pennulatum;383;abondance;NA;Baetidae;Ephemeroptera
+29165;Stenophylax permistus;3163;abondance;NA;Limnephilidae;Trichoptera
+29859;Sinanodonta woodiana;31230;abondance;NA;Unionidae;Bivalvia
+30092;Potamophylax cingulatus;3163;abondance;NA;Limnephilidae;Trichoptera
+30093;Electrogena affinis;3181;abondance;NA;Heptageniidae;Ephemeroptera
+30095;Synagapetus moselyi;192;abondance;NA;Glossosomatidae;Trichoptera
+30103;Physa stricto-sensu;30103;abondance;NA;Physidae;Gastropoda
+30109;Hydropsyche dinarica;212;abondance;NA;Hydropsychidae;Trichoptera
+30110;Synagapetus iridipennis;192;abondance;NA;Glossosomatidae;Trichoptera
+30142;Potamophylax latipennis;3163;abondance;NA;Limnephilidae;Trichoptera
+30149;Physella heterostropha;19280;abondance;NA;Physidae;Gastropoda
+30823;Labiobaetis tricolor;364;abondance;NA;Baetidae;Ephemeroptera
+31037;Procloeon pulchrum;390;abondance;NA;Baetidae;Ephemeroptera
+31121;Cordulegaster boltonii;687;abondance;NA;Cordulegasteridae;Odonata
+31147;Brachycercus europaeus;468;abondance;NA;Caenidae;Ephemeroptera
+31207;Limnephilus rhombicus;3163;abondance;NA;Limnephilidae;Trichoptera
+31208;Halesus tesselatus;3163;abondance;NA;Limnephilidae;Trichoptera
+31210;Elmis aenea;618;abondance;NA;Elmidae;Coleoptera
+31211;Limnius muelleri;623;abondance;NA;Elmidae;Coleoptera
+31230;Sinanodonta;31230;abondance;NA;Unionidae;Bivalvia
+31231;Baetopus;3198;abondance;NA;Baetidae;Ephemeroptera
+31235;Microptila;31235;abondance;NA;Hydroptilidae;Trichoptera
+31677;Hydropsyche pellucidula + incognita;212;abondance;NA;Hydropsychidae;Trichoptera
+31734;Pomatinus substriatus;33844;abondance;NA;Dryopidae;Coleoptera
+31750;Mystacides azureus;312;abondance;NA;Leptoceridae;Trichoptera
+31760;Aquarius najas;735;abondance;NA;Gerridae;Hemiptera
+31772;Odhneripisidium moitessierianum;1043;abondance;NA;Sphaeriidae;Bivalvia
+31775;Chelicorophium curvispinum;3212;abondance;NA;Corophiidae;Amphipoda
+31799;Aeshna isoceles;674;abondance;NA;Aeshnidae;Odonata
+32240;Electrogena grandiae;3181;abondance;NA;Heptageniidae;Ephemeroptera
+32241;Erythromma lindenii;658;abondance;NA;Coenagrionidae;Odonata
+32242;Oligoneuriella pallida;394;abondance;NA;Oligoneuriidae;Ephemeroptera
+32243;Beraea dira;328;abondance;NA;Beraeidae;Trichoptera
+32246;Baetopus wartensis;3198;abondance;NA;Baetidae;Ephemeroptera
+32247;Enoicyla;3163;abondance;NA;Limnephilidae;Trichoptera
+32268;Baetis liebenauae;364;abondance;NA;Baetidae;Ephemeroptera
+32269;Alainites;364;abondance;NA;Baetidae;Ephemeroptera
+32270;Nigrobaetis;364;abondance;NA;Baetidae;Ephemeroptera
+32271;Labiobaetis;364;abondance;NA;Baetidae;Ephemeroptera
+32287;Alainites muticus;364;abondance;NA;Baetidae;Ephemeroptera
+32503;Chelicorophium;3212;abondance;NA;Corophiidae;Amphipoda
+32576;Scathophagidae;846;abondance;NA;Scatophagidae;Diptera
+33830;Leuctra geniculata;69;abondance;NA;Leuctridae;Plecoptera
+33840;Limnephilus lunatus;3163;abondance;NA;Limnephilidae;Trichoptera
+33844;Pomatinus;33844;abondance;NA;Dryopidae;Coleoptera
+33845;Baetis fuscatus/scambus;364;abondance;NA;Baetidae;Ephemeroptera
+33849;Dinocras ferreri;156;abondance;NA;Perlidae;Plecoptera
+34234;Ceraclea nigronervosa;313;abondance;NA;Leptoceridae;Trichoptera
+34235;Echinogammarus spinulicornis;888;abondance;NA;Gammaridae;Amphipoda
+34236;Limnephilus borealis;3163;abondance;NA;Limnephilidae;Trichoptera
+34250;Limnephilus auricula;3163;abondance;NA;Limnephilidae;Trichoptera
+37498;Agabus guttatus;2395;abondance;NA;Dytiscidae;Coleoptera
+37506;Limnephilus centralis;3163;abondance;NA;Limnephilidae;Trichoptera
+37512;Limnephilus stigma;3163;abondance;NA;Limnephilidae;Trichoptera
+37857;Limnephilus marmoratus;3163;abondance;NA;Limnephilidae;Trichoptera
+37858;Ceraclea albimacula;313;abondance;NA;Leptoceridae;Trichoptera
+38260;Ceriagrion tenellum;658;abondance;NA;Coenagrionidae;Odonata
+38262;Chaetopteryx major;3163;abondance;NA;Limnephilidae;Trichoptera
+337;Helicopsyche revelieri;336;abondance;NA;Helicopsychidae;Trichoptera
+717;Parasigara;5196;abondance;NA;Corixidae;Hemiptera
+20383;Pristinella;933;abondance;NA;Naididae;Oligochaeta
+20547;Sympetrinae;696;abondance;NA;Libellulidae;Odonata

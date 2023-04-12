@@ -1,0 +1,37 @@
+I2M2;v1.0.6;2023-04-12;Temps d'execution :;5.96secs
+CODE_OPERATION;CODE_STATION;DATE;CODE_PAR;LIB_PAR;RESULTAT;COMMENTAIRE
+MINV4;04170500;15/06/2021;8058;IndiceShannonI2M2;0.7148;
+MINV4;04170500;15/06/2021;8057;AverageScorePerTaxonI2M2;0.8113;
+MINV4;04170500;15/06/2021;8056;PolyvoltinismeI2M2;0.7837;
+MINV4;04170500;15/06/2021;8055;OvovivipariteI2M2;0.6318;
+MINV4;04170500;15/06/2021;8054;RichesseI2M2;0.6735;
+MINV4;04170500;15/06/2021;7613;Ind Invert Multimetrique;0.7263;
+MINV4;04170500;15/06/2021;8050;NbTaxonsI2M2Contributifs;65;Les taxons suivants, representant 3% des taxons du prelevement, n'ont pas ete pris en compte dans le calcul : 3206, 1054.
+MINV11;04179652;02/09/2021;8058;IndiceShannonI2M2;0.5868;
+MINV11;04179652;02/09/2021;8057;AverageScorePerTaxonI2M2;0.6203;
+MINV11;04179652;02/09/2021;8056;PolyvoltinismeI2M2;0.7389;
+MINV11;04179652;02/09/2021;8055;OvovivipariteI2M2;0.5423;
+MINV11;04179652;02/09/2021;8054;RichesseI2M2;0.5102;
+MINV11;04179652;02/09/2021;7613;Ind Invert Multimetrique;0.6063;
+MINV11;04179652;02/09/2021;8050;NbTaxonsI2M2Contributifs;58;Les taxons suivants, representant 2% des taxons du prelevement, n'ont pas ete pris en compte dans le calcul : 3206.
+MINV10;04178360;03/09/2021;8058;IndiceShannonI2M2;0.8927;
+MINV10;04178360;03/09/2021;8057;AverageScorePerTaxonI2M2;0.8346;
+MINV10;04178360;03/09/2021;8056;PolyvoltinismeI2M2;0.9493;
+MINV10;04178360;03/09/2021;8055;OvovivipariteI2M2;0.9032;
+MINV10;04178360;03/09/2021;8054;RichesseI2M2;0.7959;
+MINV10;04178360;03/09/2021;7613;Ind Invert Multimetrique;0.8798;
+MINV10;04178360;03/09/2021;8050;NbTaxonsI2M2Contributifs;69;Les taxons suivants, representant 5% des taxons du prelevement, n'ont pas ete pris en compte dans le calcul : 20359, 3206, 3170, 1054.
+MINV6;04190780;06/09/2021;8058;IndiceShannonI2M2;0.9937;
+MINV6;04190780;06/09/2021;8057;AverageScorePerTaxonI2M2;0.6191;
+MINV6;04190780;06/09/2021;8056;PolyvoltinismeI2M2;0.6785;
+MINV6;04190780;06/09/2021;8055;OvovivipariteI2M2;0.5736;
+MINV6;04190780;06/09/2021;8054;RichesseI2M2;0.6939;
+MINV6;04190780;06/09/2021;7613;Ind Invert Multimetrique;0.698;
+MINV6;04190780;06/09/2021;8050;NbTaxonsI2M2Contributifs;63;Les taxons suivants, representant 3% des taxons du prelevement, n'ont pas ete pris en compte dans le calcul : 3127, 3170.
+MINV7;04190842;06/09/2021;8058;IndiceShannonI2M2;0.735;
+MINV7;04190842;06/09/2021;8057;AverageScorePerTaxonI2M2;0.6744;
+MINV7;04190842;06/09/2021;8056;PolyvoltinismeI2M2;0.8483;
+MINV7;04190842;06/09/2021;8055;OvovivipariteI2M2;0.7816;
+MINV7;04190842;06/09/2021;8054;RichesseI2M2;0.7143;
+MINV7;04190842;06/09/2021;7613;Ind Invert Multimetrique;0.7544;
+MINV7;04190842;06/09/2021;8050;NbTaxonsI2M2Contributifs;69;Les taxons suivants, representant 1% des taxons du prelevement, n'ont pas ete pris en compte dans le calcul : 1054.
