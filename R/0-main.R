@@ -1,7 +1,7 @@
 main <- function(Fichier_entree){
 #import des fonctions de  calc consult
 source("R/I2M2_v1.0.6_calc_consultYM.r")
-
+print(paste("fichier entree :",Fichier_entree))
 #version/indic
 indic  <- "I2M2"
 vIndic <- "v1.0.6"
@@ -132,9 +132,10 @@ data_sortie <- left_join(x = data_sortie,
                            funArrondi(RESULTAT, 4)),
          COMMENTAIRE = ifelse(is.na(COMMENTAIRE), "", COMMENTAIRE))
 
-fichierResultat               <- paste0("data/",indic, "_", vIndic, "_resultats.csv")
-fichierResultatComplementaire <- paste0("data",indic, "_", vIndic,
-                                        "_resultats_complementaires.csv")
+#fichierResultat               <- paste0("data/",indic, "_", vIndic, "_resultats.csv")
+fichierResultat               <- paste0(Fichier_entree, "-",vIndic, "_resultats.csv")
+#fichierResultatComplementaire <- paste0("data",indic, "_", vIndic,"_resultats_complementaires.csv")
+fichierResultatComplementaire <- paste0(Fichier_entree, "_", vIndic,"_resultats_complementaires.csv")
 funResult(indic               = indic,
           vIndic              = vIndic,
           heure_debut         = heure_debut,
@@ -145,6 +146,8 @@ funResult(indic               = indic,
           file_complementaire = fichierResultatComplementaire)
 
 return(data_sortie)
+print(paste("fin du traitement, résultats dans ",fichierResultat))
+print("**********************************************************")
 }
 sortie <- main("data/I2M2_entree_op100.txt")
 
