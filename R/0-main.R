@@ -1,4 +1,4 @@
-main <- function(){
+main <- function(Fichier_entree){
 #import des fonctions de  calc consult
 source("R/I2M2_v1.0.6_calc_consultYM.r")
 
@@ -48,8 +48,8 @@ De        <- read.csv2("data/I2M2_params_de.csv",
 # Ne pas afficher les messages d'avis ni d'erreur
 options(warn = -1)
 
-Fichier_entree           <- choose.files(caption = "Choisir le fichier", multi = FALSE,
-                               filters = cbind("Fichier texte (*.txt)", "*.txt"))
+# Fichier_entree           <- choose.files(caption = "Choisir le fichier", multi = FALSE,
+#                                filters = cbind("Fichier texte (*.txt)", "*.txt"))
 complementaire <- TRUE
 
 # Initialisation de l'heure
@@ -119,7 +119,7 @@ resultats <- bind_rows(
 data_sortie <- left_join(x  = data_sortie,
                          y  = resultats,
                          by = c("CODE_OPERATION", "CODE_PAR"))
-view(data_sortie)
+
 
 Commentaires <- funCommentaires(Table            = data_sortie,
                                 TaxaContributifs = TaxaContributifs)
@@ -143,5 +143,13 @@ funResult(indic               = indic,
           complementaire      = complementaire,
           file                = fichierResultat,
           file_complementaire = fichierResultatComplementaire)
+
+return(data_sortie)
 }
-main()
+sortie <- main("data/I2M2_entree_op100.txt")
+
+Liste_fichiers <-  list.files("data/",pattern=".txt",full.names=T)
+Liste_fichiers
+
+test <- map(.x=Liste_fichiers,
+    .f=main)
